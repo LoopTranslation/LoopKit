@@ -17,7 +17,7 @@
 "dyX-Zv-8wU.normalTitle" = "🍕";
 
 /* Class = "UILabel"; text = "Amount Consumed"; ObjectID = "K0S-my-3qL"; */
-"K0S-my-3qL.text" = "Forbrugt mængde";
+"K0S-my-3qL.text" = "Antal kulhydrater";
 
 /* Class = "UILabel"; text = "..."; ObjectID = "lbE-wQ-pFK"; */
 "lbE-wQ-pFK.text" = "...";
