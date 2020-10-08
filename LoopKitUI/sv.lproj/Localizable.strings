@@ -486,6 +486,9 @@
 /* Section title for slow absorbing food */
 "Slow" = "Långsam";
 
+/* No comment provided by engineer. */
+"Some of the values you have entered are outside of what is typically recommended for most people." = "Some of the values you have entered are outside of what is typically recommended for most people.";
+
 /* Information about typical maximum basal rates */
 "Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." = "Vissa användare väljer ett värde 2, 3 eller 4 gånger sin högsta schemalagda basaldos.";
 

@@ -114,7 +114,7 @@
 "Basal, bolus, and correction insulin dose amounts are decreased by %@%%." = "Basal-, bolus- og korrektionsinsulindoser er sænket med %@%%.";
 
 /* Describes a percentage increase in overall insulin needs */
-"Basal, bolus, and correction insulin dose amounts are increased by %@%%." = "Basal-, bolus- og korrektionsinsulindoser er forøget med %@%%.";
+"Basal, bolus, and correction insulin dose amounts are increased by %@%%." = "Basal-, bolus- og korrektions-insulindoser er forøget med %@%%.";
 
 /* Describes a lack of change in overall insulin needs */
 "Basal, bolus, and correction insulin dose amounts are unaffected." = "Basal-, bolus- og korrektionsinsulindoser er uændrede.";
@@ -193,11 +193,11 @@
 "Custom" = "Brugerdefineret";
 
 /* The title for the custom override entry screen */
-"Custom Override" = "Brugerdefineret override";
+"Custom Override" = "Override";
 
 /* The title for the custom preset entry screen
    The title for the custom preset selection screen */
-"Custom Preset" = "Brugerdefineret forudindstilling";
+"Custom Preset" = "Preset";
 
 /* Title of the carb entry date picker cell */
 "Date" = "Dato";
@@ -218,7 +218,7 @@
 "Delivery limits are safety guardrails for your insulin delivery." = "Afgivelsesgrænser er sikkerhedsgrænser for insulinafgivelsen.";
 
 /* The text for the custom preset disable button */
-"Disable Preset" = "Deaktiver forudindstilling";
+"Disable Preset" = "Deaktiver preset";
 
 /* No comment provided by engineer. */
 "Done" = "Udført";
@@ -486,6 +486,9 @@
 /* Section title for slow absorbing food */
 "Slow" = "Langsom";
 
+/* No comment provided by engineer. */
+"Some of the values you have entered are outside of what is typically recommended for most people." = "Nogle af de værdier, du har angivet, ligger uden for det, der typisk anbefales til de fleste.";
+
 /* Information about typical maximum basal rates */
 "Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." = "Nogle brugere vælger en værdi 2, 3 eller 4 gange deres højeste basalrate.";
 
@@ -514,7 +517,7 @@
 "Symbol" = "Symbol";
 
 /* Text directing the user to configure their first custom preset */
-"Tap '+' to create a new custom preset." = "Tryk på '+' for at oprette en ny brugerdefineret preset.";
+"Tap '+' to create a new custom preset." = "Tryk på '+' for at oprette en ny preset.";
 
 /* The empty-state text for a configuration value */
 "Tap to set" = "Tryk for at gemme";
@@ -548,10 +551,10 @@
 "The schedule starts at midnight and cannot contain a rate of 0 U/hr." = "Tidsplanen starter ved midnat og kan ikke indeholde en dosis på 0 U/time.";
 
 /* Therapy Settings screen title */
-"Therapy Settings" = "Indstillinger for behandling";
+"Therapy Settings" = "Indstillinger";
 
 /* No comment provided by engineer. */
-"Therapy Settings Support Placeholder" = "Behandlingsindstillinger Support";
+"Therapy Settings Support Placeholder" = "Indstillinger - Support";
 
 /* Subtitle of Fiasp preset */
 "This model assumes peak insulin activity at 55 minutes." = "Denne model forudsætter peak insulin aktivitet på 55 minutter.";
