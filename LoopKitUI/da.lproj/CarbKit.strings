@@ -1,14 +1,14 @@
 /* Class = "UILabel"; text = "Authorize access to Health to continue"; ObjectID = "7xi-Om-Y53"; */
-"7xi-Om-Y53.text" = "Tillad adgang til Sundhed for at fortsætte";
+"7xi-Om-Y53.text" = "Godkend adgang til Sundhed for at fortsætte";
 
 /* Class = "UIButton"; normalTitle = "Authorize"; ObjectID = "8sx-XB-DRV"; */
-"8sx-XB-DRV.normalTitle" = "Tillad";
+"8sx-XB-DRV.normalTitle" = "Autoriseret";
 
 /* Class = "UILabel"; text = "Food Type"; ObjectID = "bdP-2A-DB8"; */
-"bdP-2A-DB8.text" = " Mad Type";
+"bdP-2A-DB8.text" = "Mad type";
 
 /* Class = "UINavigationItem"; title = "Add/Edit Carb Entry"; ObjectID = "bM2-yI-YmX"; */
-"bM2-yI-YmX.title" = "Tilføj/Rediger Kulhydrat Indtastning";
+"bM2-yI-YmX.title" = "Tilføj/rediger kulhydrat";
 
 /* Class = "UILabel"; text = "g"; ObjectID = "D2S-2h-yH6"; */
 "D2S-2h-yH6.text" = "g";
@@ -17,7 +17,7 @@
 "dyX-Zv-8wU.normalTitle" = "🍕";
 
 /* Class = "UILabel"; text = "Amount Consumed"; ObjectID = "K0S-my-3qL"; */
-"K0S-my-3qL.text" = "Mængde Forbrugt";
+"K0S-my-3qL.text" = "Forbrugt mængde";
 
 /* Class = "UILabel"; text = "..."; ObjectID = "lbE-wQ-pFK"; */
 "lbE-wQ-pFK.text" = "...";
@@ -32,10 +32,10 @@
 "Me5-3D-C34.normalTitle" = "🌮";
 
 /* Class = "UILabel"; text = "Food Type"; ObjectID = "NRZ-dT-iqj"; */
-"NRZ-dT-iqj.text" = "Mad Type";
+"NRZ-dT-iqj.text" = "Mad type";
 
 /* Class = "UILabel"; text = "HealthKit is not available on this device"; ObjectID = "nXh-BM-MuC"; */
-"nXh-BM-MuC.text" = "Sundhedsappen er ikke tilgængelig på denne enhed";
+"nXh-BM-MuC.text" = "HealthKit er ikke tilgængelig på denne enhed";
 
 /* Class = "UILabel"; text = "g Total"; ObjectID = "pHI-f4-pJp"; */
 "pHI-f4-pJp.text" = "g Total";

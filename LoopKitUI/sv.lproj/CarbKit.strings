@@ -1,5 +1,5 @@
 /* Class = "UILabel"; text = "Authorize access to Health to continue"; ObjectID = "7xi-Om-Y53"; */
-"7xi-Om-Y53.text" = "Godkänn åtkomst till Apple Health för att fortsätta";
+"7xi-Om-Y53.text" = "Auktorisera åtkomst till Hälsa för att fortsätta";
 
 /* Class = "UIButton"; normalTitle = "Authorize"; ObjectID = "8sx-XB-DRV"; */
 "8sx-XB-DRV.normalTitle" = "Auktorisera";
@@ -8,7 +8,7 @@
 "bdP-2A-DB8.text" = "Typ av mat";
 
 /* Class = "UINavigationItem"; title = "Add/Edit Carb Entry"; ObjectID = "bM2-yI-YmX"; */
-"bM2-yI-YmX.title" = "Kolhydrater";
+"bM2-yI-YmX.title" = "Lägg till/Ändra kolhydrater";
 
 /* Class = "UILabel"; text = "g"; ObjectID = "D2S-2h-yH6"; */
 "D2S-2h-yH6.text" = "g";
@@ -35,7 +35,7 @@
 "NRZ-dT-iqj.text" = "Typ av mat";
 
 /* Class = "UILabel"; text = "HealthKit is not available on this device"; ObjectID = "nXh-BM-MuC"; */
-"nXh-BM-MuC.text" = "HealtKit är inte tillgänglig på denna enhet";
+"nXh-BM-MuC.text" = "HealthKit är inte tillgänglig på den här enheten";
 
 /* Class = "UILabel"; text = "g Total"; ObjectID = "pHI-f4-pJp"; */
 "pHI-f4-pJp.text" = "g totalt";
@@ -57,3 +57,4 @@
 
 /* Class = "UIButton"; normalTitle = "🍭"; ObjectID = "XaD-wV-oiS"; */
 "XaD-wV-oiS.normalTitle" = "🍭";
+

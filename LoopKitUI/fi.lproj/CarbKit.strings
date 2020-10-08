@@ -1,8 +1,8 @@
 /* Class = "UILabel"; text = "Authorize access to Health to continue"; ObjectID = "7xi-Om-Y53"; */
-"7xi-Om-Y53.text" = "Valtuuta pääsy Terveys-sovellukseen jatkaaksesi";
+"7xi-Om-Y53.text" = "Salli pääsy Terveys-sovellukseen jatkaaksesi";
 
 /* Class = "UIButton"; normalTitle = "Authorize"; ObjectID = "8sx-XB-DRV"; */
-"8sx-XB-DRV.normalTitle" = "Valtuuta";
+"8sx-XB-DRV.normalTitle" = "Salli";
 
 /* Class = "UILabel"; text = "Food Type"; ObjectID = "bdP-2A-DB8"; */
 "bdP-2A-DB8.text" = "Ruokatyyppi";
@@ -35,7 +35,7 @@
 "NRZ-dT-iqj.text" = "Ruokatyyppi";
 
 /* Class = "UILabel"; text = "HealthKit is not available on this device"; ObjectID = "nXh-BM-MuC"; */
-"nXh-BM-MuC.text" = "HealthKit ei ole käytettävissä tällä laitteella";
+"nXh-BM-MuC.text" = "HealthKit ei ole käytettävissä tässä laitteessa";
 
 /* Class = "UILabel"; text = "g Total"; ObjectID = "pHI-f4-pJp"; */
 "pHI-f4-pJp.text" = "g yhteensä";

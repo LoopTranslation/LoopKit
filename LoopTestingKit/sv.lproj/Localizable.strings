@@ -1,0 +1,15 @@
+/* Status highlight that delivery is uncertain. */
+"Comms Issue" = "Problem med kommandon";
+
+/* Status highlight that insulin delivery was suspended. */
+"Insulin Suspended" = "Insulintillförsel pausad";
+
+/* Status highlight that a pump is out of insulin. */
+"No Insulin" = "Inget insulin";
+
+/* Status highlight that a pump error occurred. */
+"Pump Error" = "Pumpfel";
+
+/* Status highlight that an occlusion was detected. */
+"Pump Occlusion" = "Pumpocklusion";
+
