@@ -1,5 +1,5 @@
 /* Bundle name */
-"CFBundleName" = "LoopKit Example";
+"CFBundleName" = "Exemplu de LoopKit";
 
 /* Privacy - Health Share Usage Description */
 "NSHealthShareUsageDescription" = "Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation.";
