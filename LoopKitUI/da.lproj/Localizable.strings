@@ -23,7 +23,7 @@
 "%@" = "%@";
 
 /* Insulin model setting description (1: app name) (2: number of models) */
-"%@ assumes insulin is actively working for 6 hours. You can choose from %@ different models for how the app measures the insulin’s peak activity." = "%1$@ antager at insulin virker aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan appen måler insulinets maksimale aktivitet.";
+"%@ assumes insulin is actively working for 6 hours. You can choose from %@ different models for how the app measures the insulin’s peak activity." = "%1$@ antager at insulin virker aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan Loop måler insulinets maksimale aktivitet.";
 
 /* Information about insulin action duration */
 "%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." = "%@ forudsætter, at den insulin, den har leveret, aktivt arbejder på at sænke din glukose i 6 timer. Denne indstilling kan ikke ændres.";
@@ -278,7 +278,7 @@
 "For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "For dette område, skal du vælge den specifikke glukoseværdi (eller værdiinterval), som du vil have Loop til at sigte efter når Loop justere din basal insulin.";
 
 /* Support button for Therapy Settings */
-"Get help with Therapy Settings" = "Få hjælp til behandlingsindstillinger";
+"Get help with Therapy Settings" = "Få hjælp til indstillinger";
 
 /* Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range */
 "Go Back" = "Gå tilbage";
@@ -299,7 +299,7 @@
 "High Maximum Basal Rate" = "Høj maksimal basalrate";
 
 /* Title text for high maximum bolus warning */
-"High Maximum Bolus" = "Maksimum bolus";
+"High Maximum Bolus" = "Maksimal bolus";
 
 /* Title text for the high suspend threshold warning */
 "High Suspend Threshold" = "Høj suspenderingsgrænse";
@@ -335,7 +335,7 @@
 "Low Maximum Basal Rate" = "Lav maksimal basalrate";
 
 /* Title text for low maximum bolus warning */
-"Low Maximum Bolus" = "Lav maksimum bolus";
+"Low Maximum Bolus" = "Lav maksimal bolus";
 
 /* Title text for the low suspend threshold warning */
 "Low Suspend Threshold" = "Lav suspenderingsgrænse";
@@ -429,10 +429,10 @@
 "quantity-and-unit-tight" = "%1$@%2$@";
 
 /* Title of insulin model preset - rapid acting adult */
-"Rapid-Acting – Adults" = "Hurtigt-Virkende – Voksne";
+"Rapid-Acting – Adults" = "Hurtigt-virkende (Rapid) – Voksne";
 
 /* Title of insulin model preset - rapid acting children */
-"Rapid-Acting – Children" = "Hurtigt-Virkende – Børn";
+"Rapid-Acting – Children" = "Hurtigt-virkende (Rapid) – Børn";
 
 /* The default placeholder string for a credential */
 "Required" = "Påkrævet";
@@ -533,7 +533,7 @@
 "than your correction range" = "end dit korrektionsområde";
 
 /* Subtitle description of Walsh insulin model setting */
-"The legacy model used by Loop, allowing customization of action duration." = "Ældre model, der bruges af Loop, og som gør det muligt at tilpasse handlingens varighed.";
+"The legacy model used by Loop, allowing customization of action duration." = "Ældre model, der bruges af Loop, og som gør det muligt at tilpasse insulinens varighed.";
 
 /* Alert body displayed absorption time greater than max (1: maximum absorption time) */
 "The maximum absorption time is %@" = "Den maksimale absorptionstid er %@";
@@ -646,14 +646,14 @@
 "You can edit the setting by tapping into the line item." = "Du kan redigere indstillingen ved at trykke på linjen.";
 
 /* Information about basal rates */
-"Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Din basalrate, er det antal af insulinenheder i timen, som du skal bruge for at dække dit basale insulinbehov.";
+"Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "En basalrate, er det antal af insulinenheder i timen, som du skal bruge for at dække dit basale insulinbehov.";
 
 /* Disclaimer */
 "Your healthcare provider can help you choose a correction range that's right for you." = "Din læge kan hjælpe dig med at vælge et korrektionsområde, der passer til dig.";
 
 /* Description of insulin sensitivity factor */
-"Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." = "Din insulinfølsomhed (ISF) henviser til det fald i blodsukkeret, der forventes fra én insulinenhed.";
+"Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." = "Insulinfølsomhed (ISF) henviser til det fald i blodsukkeret, der forventes fra én insulinenhed.";
 
 /* Information about pre-meal range */
-"Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." = "Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal.";
+"Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." = "Dit før-måltid område bør være det blodsukker (eller interval), du ønsker Loop skal bruge indtil du begynder at spise.";
 
