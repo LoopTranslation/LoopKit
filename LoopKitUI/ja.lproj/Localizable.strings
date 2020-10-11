@@ -44,6 +44,9 @@
    The format for an override symbol and name (1: symbol)(2: name) */
 "%1$@ %2$@" = "%1$@ %2$@";
 
+/* Insulin model setting description (1: app name) (2: number of models) */
+"%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." = "%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.";
+
 /* Accessibility format string for (1: localized volume)(2: time) */
 "%1$@ units remaining at %2$@" = "%1$@ units remaining at %2$@";
 
@@ -254,6 +257,9 @@
 
 /* The detail text describing an enabled setting */
 "Enabled" = "有効";
+
+/* Format string for accessibility label for value entry. (1: value label) */
+"Enter %1$@ value" = "Enter %1$@ value";
 
 /* The placeholder text instructing users how to enter a maximum bolus */
 "Enter a number of units" = "単位数を入力";
