@@ -22,9 +22,6 @@
 /* No comment provided by engineer. */
 "%@" = "%@";
 
-/* Insulin model setting description (1: app name) (2: number of models) */
-"%@ assumes insulin is actively working for 6 hours. You can choose from %@ different models for how the app measures the insulin’s peak activity." = "%1$@ antager at insulin virker aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan Loop måler insulinets maksimale aktivitet.";
-
 /* Information about insulin action duration */
 "%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." = "%@ forudsætter, at den insulin, den har leveret, aktivt arbejder på at sænke din glukose i 6 timer. Denne indstilling kan ikke ændres.";
 
@@ -190,7 +187,7 @@
 "Correction Values" = "Korrektionværdier";
 
 /* The text for a custom override */
-"Custom" = "Brugerdefineret";
+"Custom" = "Opret midlertidig preset";
 
 /* The title for the custom override entry screen */
 "Custom Override" = "Override";
@@ -200,9 +197,9 @@
 "Custom Preset" = "Preset";
 
 /* Title of the carb entry date picker cell */
-"Date" = "Dato";
+"Date" = "Tidspunkt kulhydraterne spise/er spist";
 
-/* No comment provided by engineer. */
+/* Test for table cell delete button */
 "Delete" = "Slet";
 
 /* The title of the button to remove the credentials for a service */
@@ -211,7 +208,7 @@
 /* Button title to delete all objects */
 "Delete All" = "Slet alle";
 
-/* No comment provided by engineer. */
+/* Title text for crossed thresholds guardrail warning */
 "Delivery Limits" = "Insulin-grænser";
 
 /* Information about delivery limits */
@@ -220,7 +217,8 @@
 /* The text for the custom preset disable button */
 "Disable Preset" = "Deaktiver preset";
 
-/* No comment provided by engineer. */
+/* Text for dismiss button
+   Text for done button */
 "Done" = "Udført";
 
 /* The text for the override duration setting */
@@ -232,7 +230,8 @@
 /* No comment provided by engineer. */
 "Dynamic data %@" = "Dynamiske data %@";
 
-/* The title for the enabled custom preset editing screen */
+/* Text for edit button
+   The title for the enabled custom preset editing screen */
 "Edit" = "Rediger";
 
 /* The title of the view controller to edit an existing carb entry */
@@ -263,9 +262,6 @@
 "Enter a rate in units per hour" = "Indtast en dosis i enheder pr time";
 
 /* No comment provided by engineer. */
-"Enter value" = "Indsæt værdi";
-
-/* No comment provided by engineer. */
 "Example" = "Eksempel";
 
 /* Section title for fast absorbing food */
@@ -280,7 +276,8 @@
 /* Support button for Therapy Settings */
 "Get help with Therapy Settings" = "Få hjælp til indstillinger";
 
-/* Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range */
+/* Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range
+   Text for go back action on confirmation alert */
 "Go Back" = "Gå tilbage";
 
 /* Title text for the high basal rate warning */
@@ -486,7 +483,7 @@
 /* Section title for slow absorbing food */
 "Slow" = "Langsom";
 
-/* No comment provided by engineer. */
+/* Caption for guardrail warning when more than one threshold is crossed */
 "Some of the values you have entered are outside of what is typically recommended for most people." = "Nogle af de værdier, du har angivet, ligger uden for det, der typisk anbefales til de fleste.";
 
 /* Information about typical maximum basal rates */
@@ -569,7 +566,7 @@
    Information about workout range relative to correction range */
 "This will typically be" = "Dette vil typisk være";
 
-/* No comment provided by engineer. */
+/* Label for offset from midnight picker */
 "Time" = "Tid";
 
 /* The schedule table view header describing the configured time zone difference from the default time zone. The substitution parameters are: (1: time zone name)(2: +/-)(3: time interval) */
