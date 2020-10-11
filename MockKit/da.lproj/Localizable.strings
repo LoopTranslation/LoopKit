@@ -1,5 +1,5 @@
 /* No comment provided by engineer. */
-"%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered." = "%1$@ har ikke været i stand til at kommunikere med simulator pumpen siden %2$@.\n\nUden kommunikation kan appen ikke fortsætte med at sende kommandoer til afgivelse af insulin eller vise nøjagtig og opdateret information om dit aktive insulin eller det insulin du får.";
+"%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered." = "%1$@ har ikke været i stand til at kommunikere med simulator pumpen siden %2$@.\n\nUden kommunikation kan Loop ikke fortsætte med at sende kommandoer til afgivelse af insulin eller vise nøjagtig og opdateret information om dit aktive insulin eller den insulin du får.";
 
 /* Appends a full-stop to a statement */
 "%@." = "%@.";

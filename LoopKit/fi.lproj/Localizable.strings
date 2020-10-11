@@ -8,10 +8,10 @@
 "%1$@ U bolus may not have succeeded" = "%1$@ U bolus ei ehkä onnistunut";
 
 /* Descriptive text for guardrail high value warning for schedule interface */
-"A value you have entered is higher than what is typically recommended for most people." = "Antamasi arvo on suurempi kuin useimmille ihmisille tyypillisesti suositellaan.";
+"A value you have entered is higher than what is typically recommended for most people." = "Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositeltu arvo.";
 
 /* Descriptive text for guardrail low value warning for schedule interface */
-"A value you have entered is lower than what is typically recommended for most people." = "Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositellaan.";
+"A value you have entered is lower than what is typically recommended for most people." = "Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositeltava arvo.";
 
 /* The error description describing when Health sharing was denied */
 "Authorization Denied" = "Valtuutus hylättiin";
@@ -32,7 +32,7 @@
 "com.loudnate.carbKit.sharingDeniedErrorRecoverySuggestion" = "Tämä näyte voidaan poistaa Terveys-sovelluksesta";
 
 /* Generic pump error description */
-"Communication Failure" = "Kommunikaatiovirhe";
+"Communication Failure" = "Yhteysvirhe";
 
 /* Failure reason for uncertain delivery */
 "Communications interrupted during insulin delivery command." = "Yhteys katkesi insuliinin annostelu -toiminnon aikana.";
@@ -44,7 +44,7 @@
 "Correction Range" = "Korjausalue";
 
 /* Descriptive text for glucose target range */
-"Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaali-insuliinin määrää.";
+"Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.";
 
 /* Title text for delivery limits */
 "Delivery Limits" = "Annostelurajat";
@@ -89,7 +89,7 @@
 "Maximum Basal Rate" = "Suurin sallittu basaalitaso";
 
 /* Descriptive text for maximum basal rate */
-"Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." = "Suurin sallittu basaalitaso on korkein väliaikainen basaalitaso, jonka Loop saa asettaa automaattisesti.";
+"Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." = "Suurin sallittu basaalitaso on korkein tilapäinen basaalitaso, jonka Loop saa asettaa automaattisesti.";
 
 /* Title text for maximum bolus configuration */
 "Maximum Bolus" = "Suurin sallittu bolus";
@@ -173,7 +173,7 @@
 "U" = "U";
 
 /* The short unit display string for international units of insulin per hour */
-"U/hr" = "U/h";
+"U/hr" = "U/t";
 
 /* Error description for uncertain delivery */
 "Uncertain Delivery" = "Epävarma annostelu";
@@ -197,7 +197,7 @@
 "Workout" = "Liikunta";
 
 /* Descriptive text for basal rate */
-"Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Basaalitaso on insuliinin yksikkömäärä tunnissa, jota haluat käyttää perusinsuliinitarpeen kattamiseen.";
+"Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Basaalitaso tarkoittaa sitä yksikkömäärää insuliinia tunnissa, jonka tarvitset insuliinin perustarpeen kattamiseen.";
 
 /* Descriptive text for carb ratio */
 "Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." = "Hiilihydraattisuhde on hiilihydraattien grammamäärä, jonka yksi yksikkö insuliinia kattaa.";
