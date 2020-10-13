@@ -17,13 +17,13 @@
 "—" = "—";
 
 /* Information about insulin action duration */
-"(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." = "(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.";
+"(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." = "(appNavn) antar at insulinet den har levert arbeider aktivt for å senke glukosen i 6 timer. Denne innstillingen kan ikke endres.";
 
 /* No comment provided by engineer. */
 "%@" = "%@";
 
 /* Information about insulin action duration */
-"%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." = "%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.";
+"%@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." = "%@ antar at insulinet den har levert arbeider aktivt for å senke glukosen i 6 timer. Denne innstillingen kan ikke endres.";
 
 /* No comment provided by engineer. */
 "%@, " = "%@, ";
@@ -45,7 +45,7 @@
 "%1$@ %2$@" = "%1$@ %2$@";
 
 /* Insulin model setting description (1: app name) (2: number of models) */
-"%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." = "%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.";
+"%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." = "%1$@ antar at insulin fungerer aktivt i 6 timer. Du kan velge mellom %2$@ ulike modeller for hvordan appen måler insulinets toppaktivitet.";
 
 /* Accessibility format string for (1: localized volume)(2: time) */
 "%1$@ units remaining at %2$@" = "%1$@ enheter gjennstår klokken %2$@";
@@ -54,40 +54,40 @@
 "%1$d percent complete." = "%1$d prosent fullført.";
 
 /* No comment provided by engineer. */
-"A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do" = "A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do";
+"A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do" = "Et kort hvis tekst vil deles over flere linjer hvis jeg fortsetter å skrive langt nok - dette burde være nok";
 
 /* Information about differences between target range and correction range */
-"A correction range is different. This will be a narrower range." = "A correction range is different. This will be a narrower range.";
+"A correction range is different. This will be a narrower range." = "Et korreksjonsområde er annerledes. Dette vil være et smalere område.";
 
 /* Caption text for zero maximum bolus setting warning */
-"A setting of 0 U means you will not be able to bolus." = "A setting of 0 U means you will not be able to bolus.";
+"A setting of 0 U means you will not be able to bolus." = "En innstilling på 0 IE betyr at du ikke vil være i stand til å gi bolus.";
 
 /* Caption text for low maximum basal rate warning */
-"A setting of 0 U/hr means Loop will not automatically administer insulin." = "A setting of 0 U/hr means Loop will not automatically administer insulin.";
+"A setting of 0 U/hr means Loop will not automatically administer insulin." = "En innstilling på 0 IE/t betyr at Loop ikke vil administrere insulin.";
 
 /* No comment provided by engineer. */
-"A simple card" = "A simple card";
+"A simple card" = "Et enkelt kort";
 
 /* Warning text for basal rate of 0 U/hr */
-"A value of 0 U/hr means you will be scheduled to receive no basal insulin." = "A value of 0 U/hr means you will be scheduled to receive no basal insulin.";
+"A value of 0 U/hr means you will be scheduled to receive no basal insulin." = "En verdi på 0 IE/t betyr at du ikke vil motta noe basalinsulin.";
 
 /* No comment provided by engineer. */
 "Above dynamic data" = "Above dynamic data";
 
 /* No comment provided by engineer. */
-"Above the save button" = "Above the save button";
+"Above the save button" = "Over Lagre-knappen";
 
 /* Title of the carb entry absorption time cell */
 "Absorption Time" = "Absorpsjonstid";
 
 /* No comment provided by engineer. */
-"Action Button" = "Action Button";
+"Action Button" = "Utførelsesknapp";
 
 /* The title for the override emoji activity section */
 "Activity" = "Aktivitet";
 
 /* Button text to confirm adding a new schedule item */
-"Add" = "Add";
+"Add" = "Legg til";
 
 /* The title of the button to add the credentials for a service */
 "Add Account" = "Legg Til Konto";
@@ -102,13 +102,13 @@
 "Are you sure you want to delete all reservoir values?" = "Er du sikker på at du vil slette alle reservoarverdier?";
 
 /* Authentication hint string for therapy settings */
-"Authenticate to save therapy setting" = "Authenticate to save therapy setting";
+"Authenticate to save therapy setting" = "Autentiserer for å lagre behandlingsinnstillingen";
 
 /* The title of the button to remove the credentials for a service */
 "authentication-button-delete" = "authentication-button-delete";
 
 /* Title text for multi-value basal rate warning */
-"Basal Rates" = "Basal Rates";
+"Basal Rates" = "Basalrate";
 
 /* Describes a percentage decrease in overall insulin needs */
 "Basal, bolus, and correction insulin dose amounts are decreased by %@%%." = "Insulindoser for babsal, bolus og korreksjon er redusert med %@%%.";
@@ -123,7 +123,7 @@
 "Below dynamic data" = "Below dynamic data";
 
 /* No comment provided by engineer. */
-"Bottom" = "Bottom";
+"Bottom" = "Nederst";
 
 /* No comment provided by engineer. */
 "Bottom component" = "Bottom component";
@@ -138,20 +138,20 @@
 "Canceling Temp Basal" = "Avbryter temp basal";
 
 /* Title text for multi-value carb ratio warning */
-"Carb Ratios" = "Carb Ratios";
+"Carb Ratios" = "Karbohydratforhold";
 
 /* Footer text for customizing an override from a preset (1: preset name) */
 "Changes will only apply this time you enable the override. The default settings of %@ will not be affected." = "Endringer vil kun gjelde for denne gangen du aktiverer overstyring. Standardinstillinger for %@ vil ikke bli påvirket.";
 
 /* Footer text for customizing from a preset (1: preset name) */
-"Changes will only apply this time you enable the preset. The default settings of %@ will not be affected." = "Changes will only apply this time you enable the preset. The default settings of %@ will not be affected.";
+"Changes will only apply this time you enable the preset. The default settings of %@ will not be affected." = "Endringene vil kun gjelde for denne gangen når du aktiverer forhåndsinstillingen. Standardinstillinger for %@ vil ikke bli påvirket.";
 
 /* Carb entry section footer text explaining absorption time */
 "Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." = "Velg en lengre absorpsjonstid for større måltider, eller de som inneholder fett og proteiner. Dette er bare veiledning til algoritmen og trenger ikke å være nøyaktig.";
 
 /* Button text to close a modal
    Text to close informational page */
-"Close" = "Close";
+"Close" = "Lukk";
 
 /* The format string describing the date of a COB value. The first format argument is the localized date. */
 "com.loudnate.CarbKit.COBDateLabel" = "kl. %1$@";
@@ -169,13 +169,13 @@
 "com.loudnate.LoopKit.errorAlertActionTitle" = "Ok";
 
 /* Accessibility label for ProgressIndicatorView when showIndeterminantProgress */
-"Completed." = "Completed.";
+"Completed." = "Fullført.";
 
 /* The title for the override emoji condition section */
 "Condition" = "Betingelse";
 
 /* The button text for confirming the setting */
-"Confirm Setting" = "Confirm Setting";
+"Confirm Setting" = "Bekreft";
 
 /* No comment provided by engineer. */
 "content" = "content";
@@ -187,7 +187,7 @@
 "Correction range is the blood glucose range that you would like Loop to correct to." = "Korreksjonsområde er området du ønsker at Loop skal korrigere blodsukker til.";
 
 /* Title text for multi-value correction value warning */
-"Correction Values" = "Correction Values";
+"Correction Values" = "Korreksjonsverdier";
 
 /* The text for a custom override */
 "Custom" = "Tilpasset";
@@ -203,7 +203,7 @@
 "Date" = "Dato";
 
 /* Test for table cell delete button */
-"Delete" = "Delete";
+"Delete" = "Slett";
 
 /* The title of the button to remove the credentials for a service */
 "Delete Account" = "Slett Konto";
@@ -222,7 +222,7 @@
 
 /* Text for dismiss button
    Text for done button */
-"Done" = "Done";
+"Done" = "Ferdig";
 
 /* The text for the override duration setting */
 "Duration" = "Varighet";
@@ -235,7 +235,7 @@
 
 /* Text for edit button
    The title for the enabled custom preset editing screen */
-"Edit" = "Edit";
+"Edit" = "Rediger";
 
 /* The title of the view controller to edit an existing carb entry */
 "Edit Carb Entry" = "Rediger karbohydrater";
@@ -277,26 +277,26 @@
 "Fiasp" = "Fiasp";
 
 /* Information about correction range */
-"For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.";
+"For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "Korreksjonsområdet er den verdien (eller området) du vil at Loop skal korrigere blodsukkeret til.";
 
 /* Support button for Therapy Settings */
 "Get help with Therapy Settings" = "Get help with Therapy Settings";
 
 /* Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range
    Text for go back action on confirmation alert */
-"Go Back" = "Go Back";
+"Go Back" = "Tilbake";
 
 /* Title text for the high basal rate warning */
-"High Basal Rate" = "High Basal Rate";
+"High Basal Rate" = "Høy basalrate";
 
 /* Title text for the high carb ratio warning */
-"High Carb Ratio" = "High Carb Ratio";
+"High Carb Ratio" = "Høyt karbohydratforhold";
 
 /* Title text for the high correction value warning */
-"High Correction Value" = "High Correction Value";
+"High Correction Value" = "Høy korreksjonsverdi";
 
 /* Title text for the high insulin sensitivity warning */
-"High Insulin Sensitivity" = "High Insulin Sensitivity";
+"High Insulin Sensitivity" = "Høy insulinsensitivitet";
 
 /* Title text for high maximum basal rate warning */
 "High Maximum Basal Rate" = "Høy maksimal basalrate";
@@ -305,7 +305,7 @@
 "High Maximum Bolus" = "Høy maksimal bolus-dose";
 
 /* Title text for the high suspend threshold warning */
-"High Suspend Threshold" = "High Suspend Threshold";
+"High Suspend Threshold" = "Høy Grense for insulinstopp";
 
 /* Description of how to interact with summary screen */
 "If these settings look good to you, tap Save Settings to continue." = "If these settings look good to you, tap Save Settings to continue.";
@@ -314,7 +314,7 @@
 "If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." = "If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.";
 
 /* Title text for multi-value insulin sensitivity warning */
-"Insulin Sensitivities" = "Insulin Sensitivities";
+"Insulin Sensitivities" = "Insulinsensitivitet";
 
 /* The description shown on the insulin sensitivity schedule interface. */
 "Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." = "Insulinfølsomhet beskriver hvordan blodsukkeret responderer på 1 enhet insulin. Mindre verdier betyr at mer insulin vil bli gitt når man er over målområdet. Verdier som er for små kan føre til farlig lavt blodsukker. ";
@@ -323,7 +323,7 @@
 "Loop supports 1 to 48 rates per day." = "Loop supports 1 to 48 rates per day.";
 
 /* Title text for the low basal rate warning */
-"Low Basal Rate" = "Low Basal Rate";
+"Low Basal Rate" = "Lav basalrate";
 
 /* Title text for the low carb ratio warning */
 "Low Carb Ratio" = "Low Carb Ratio";
@@ -389,7 +389,7 @@
 "New Preset" = "Ny forhåndsinstilling";
 
 /* Title text for the zero basal rate warning */
-"No Basal Insulin" = "No Basal Insulin";
+"No Basal Insulin" = "Ingen basal insulin";
 
 /* Section title for no-carb food
    The title for override emoji miscellaneous section */
@@ -432,10 +432,10 @@
 "quantity-and-unit-tight" = "%1$@%2$@";
 
 /* Title of insulin model preset - rapid acting adult */
-"Rapid-Acting – Adults" = "Rapid-Acting – Adults";
+"Rapid-Acting – Adults" = "Hurtigvirkende - Voksen";
 
 /* Title of insulin model preset - rapid acting children */
-"Rapid-Acting – Children" = "Rapid-Acting – Children";
+"Rapid-Acting – Children" = "Hurtigvirkende - Barn";
 
 /* The default placeholder string for a credential */
 "Required" = "Påkrevd";
@@ -447,10 +447,10 @@
 "Resuming" = "Gjenopptar";
 
 /* title for summary description section */
-"Review and Save Settings" = "Review and Save Settings";
+"Review and Save Settings" = "Se gjennom og lagre innstillinger";
 
 /* Description of how to interact with summary screen */
-"Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." = "Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen.";
+"Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." = "Se gjennom innstillingene dine nedenfor. Om du vil endre noen av disse, trykk \"tilbake\" for å gå til det skjermbildet.";
 
 /* The text for the override preset name field placeholder */
 "Running" = "Løper";
@@ -460,7 +460,7 @@
 "Save" = "Lagre";
 
 /* Alert title for confirming basal rates outside the recommended range */
-"Save Basal Rates?" = "Save Basal Rates?";
+"Save Basal Rates?" = "Lagre Basalrate?";
 
 /* Alert title for confirming carb ratios outside the recommended range */
 "Save Carb Ratios?" = "Save Carb Ratios?";
@@ -475,10 +475,10 @@
 "Save Delivery Limits?" = "Lagre leveringsgrenser?";
 
 /* Alert title for confirming insulin sensitivities outside the recommended range */
-"Save Insulin Sensitivities?" = "Save Insulin Sensitivities?";
+"Save Insulin Sensitivities?" = "Lagre Insulinsensitivitet?";
 
 /* Alert title for confirming a suspend threshold outside the recommended range */
-"Save Suspend Threshold?" = "Save Suspend Threshold?";
+"Save Suspend Threshold?" = "Lagre Grense for insulinstopp?";
 
 /* The section header text for a scheduled override */
 "SCHEDULED OVERRIDE" = "PLANLAGT OVERSTYRING";
@@ -490,10 +490,10 @@
 "Slow" = "Langsom";
 
 /* Caption for guardrail warning when more than one threshold is crossed */
-"Some of the values you have entered are outside of what is typically recommended for most people." = "Some of the values you have entered are outside of what is typically recommended for most people.";
+"Some of the values you have entered are outside of what is typically recommended for most people." = "Noen av verdiene er utenfor hva som vanligvis er anbefalt.";
 
 /* Information about typical maximum basal rates */
-"Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." = "Some users choose a value 2, 3, or 4 times their highest scheduled basal rate.";
+"Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." = "Noen brukere velger en verdi 2, 3 eller 4 ganger høyere en deres høyeste programmerte basalrate.";
 
 /* The text for the override start time */
 "Start Time" = "Starttidspunkt";
@@ -570,7 +570,7 @@
 
 /* Information about pre-meal range relative to correction range
    Information about workout range relative to correction range */
-"This will typically be" = "This will typically be";
+"This will typically be" = "Dette vil typisk være";
 
 /* Label for offset from midnight picker */
 "Time" = "Time";
@@ -591,7 +591,7 @@
 "U/hour" = "E/timen";
 
 /* Alert title when error occurs while saving a schedule */
-"Unable to Save" = "Unable to Save";
+"Unable to Save" = "Kunne ikke lagre";
 
 /* The unit string for units */
 "Units" = "Enheter";
@@ -601,7 +601,7 @@
 "Unknown" = "Ukjent";
 
 /* Placeholder text until value is entered */
-"Value" = "Value";
+"Value" = "Verdi";
 
 /* Label indicating validation is occurring */
 "Verifying" = "Bekrefter";
@@ -613,7 +613,7 @@
 "Warning" = "Advarsel";
 
 /* Disclaimer */
-"Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." = "Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable.";
+"Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." = "Få hjelp av helsepersonell for å velge en verdi som er høyere enn din høyeste programmerte basalrate, men så konservativ eller aggressiv som du er komfortabel med.";
 
 /* Title for the workout override range */
 "Workout" = "Trening";

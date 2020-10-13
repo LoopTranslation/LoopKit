@@ -45,7 +45,7 @@
 "%1$@ %2$@" = "%1$@ %2$@";
 
 /* Insulin model setting description (1: app name) (2: number of models) */
-"%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." = "%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.";
+"%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." = "%1$@ olettaa, että insuliini vaikuttaa aktiivisesti 6 tuntia. Voit valita %2$@ eri mallista, miten sovellus mittaa insuliinin vaikutushuipun.";
 
 /* Accessibility format string for (1: localized volume)(2: time) */
 "%1$@ units remaining at %2$@" = "%1$@ yksikköä jäljellä klo %2$@";
@@ -259,7 +259,7 @@
 "Enabled" = "Käytössä";
 
 /* Format string for accessibility label for value entry. (1: value label) */
-"Enter %1$@ value" = "Enter %1$@ value";
+"Enter %1$@ value" = "Syötä %1$@ arvo";
 
 /* The placeholder text instructing users how to enter a maximum bolus */
 "Enter a number of units" = "Syötä yksikkömäärä";

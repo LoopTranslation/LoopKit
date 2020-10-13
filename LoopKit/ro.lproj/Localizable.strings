@@ -1,5 +1,5 @@
 /* Format for correction range override therapy setting card */
-"%@ Range" = "%@ Range";
+"%@ Range" = "%@ Interval";
 
 /* Describes a certain bolus failure (1: size of the bolus in units) */
 "%1$@ U bolus failed" = "bolus eșuat de %1$@ U";
@@ -8,19 +8,19 @@
 "%1$@ U bolus may not have succeeded" = "bolusul de %1$@ U s-ar putea să fi eșuat";
 
 /* Descriptive text for guardrail high value warning for schedule interface */
-"A value you have entered is higher than what is typically recommended for most people." = "A value you have entered is higher than what is typically recommended for most people.";
+"A value you have entered is higher than what is typically recommended for most people." = "Valoarea pe care ați introdus-o este mai mare decât cea recomandată de obicei pentru majoritatea oamenilor.";
 
 /* Descriptive text for guardrail low value warning for schedule interface */
-"A value you have entered is lower than what is typically recommended for most people." = "A value you have entered is lower than what is typically recommended for most people.";
+"A value you have entered is lower than what is typically recommended for most people." = "Valoarea pe care ați introdus-o este mai mica decât cea recomandată de obicei pentru majoritatea oamenilor.";
 
 /* The error description describing when Health sharing was denied */
 "Authorization Denied" = "Autorizare refuzată";
 
 /* Title text for basal rates */
-"Basal Rates" = "Basal Rates";
+"Basal Rates" = "Rate bazale";
 
 /* Title text for carb ratios */
-"Carb Ratios" = "Carb Ratios";
+"Carb Ratios" = "Raport carbohidrați/insulină";
 
 /* Recovery instruction for an uncertain bolus failure */
 "Check your pump before retrying" = "Verificați pompa înainte de a încerca din nou";
@@ -35,19 +35,19 @@
 "Communication Failure" = "Eroare de comunicare";
 
 /* Failure reason for uncertain delivery */
-"Communications interrupted during insulin delivery command." = "Communications interrupted during insulin delivery command.";
+"Communications interrupted during insulin delivery command." = "Comunicații întrerupte în timpul comenzii de livrare a insulinei.";
 
 /* Generic pump error description */
 "Connection Failure" = "Eroare de conectare";
 
 /* Title text for glucose target range */
-"Correction Range" = "Correction Range";
+"Correction Range" = "Interval țintă pentru corecție";
 
 /* Descriptive text for glucose target range */
-"Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin.";
+"Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "Intervalul de corecție este valoarea glicemiei (sau intervalul de valori) spre care doriți ca Loop să țintească în ajustarea insulinei bazale.";
 
 /* Title text for delivery limits */
-"Delivery Limits" = "Delivery Limits";
+"Delivery Limits" = "Limite de administrare";
 
 /* Generic pump error description */
 "Device Refused" = "Dispozitiv refuzat";
@@ -71,10 +71,10 @@
 "g/U" = "g/U";
 
 /* Title text for insulin model */
-"Insulin Model" = "Insulin Model";
+"Insulin Model" = "Model insulină";
 
 /* Title text for insulin sensitivity */
-"Insulin Sensitivities" = "Insulin Sensitivities";
+"Insulin Sensitivities" = "Sensibilitate insulină";
 
 /* Generic pump error description */
 "Invalid Configuration" = "Configurație invalidă";
@@ -83,19 +83,19 @@
 "It is safe to retry" = "Puteți încerca fără riscuri";
 
 /* Recovery suggestion for uncertain delivery */
-"Make sure your pump is within communication range of your phone." = "Make sure your pump is within communication range of your phone.";
+"Make sure your pump is within communication range of your phone." = "Asigură-te că pompa ta se află în raza de comunicare a telefonului.";
 
 /* Title text for maximum basal rate configuration */
-"Maximum Basal Rate" = "Maximum Basal Rate";
+"Maximum Basal Rate" = "Rată bazală maximă";
 
 /* Descriptive text for maximum basal rate */
-"Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." = "Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically.";
+"Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." = "Rata bazala maxima este cea mai mare valoare pe care Loop o poate da unei rate bazale temporare.";
 
 /* Title text for maximum bolus configuration */
-"Maximum Bolus" = "Maximum Bolus";
+"Maximum Bolus" = "Bolus maxim";
 
 /* Descriptive text for maximum bolus */
-"Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.";
+"Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Bolusul maxim este cea mai mare cantitate de insulina pe care o poți livra instantaneu pentru a acoperi carbohidrați sau pentru a corecta o glicemie mare.";
 
 /* The short unit display string for milligrams per deciliter per U */
 "mg/dL/U" = "mg/dL/U";
@@ -122,13 +122,13 @@
 "Please re-enable sharing in Health" = "Vă rugăm să re-activați partajarea datelor în Sănătate";
 
 /* Title for pre-meal mode */
-"Pre-Meal" = "Pre-Meal";
+"Pre-Meal" = "Preprandial";
 
 /* Format string for combining localized numeric value and unit with a space. (1: numeric value)(2: unit) */
 "quantity-and-unit-space" = "%1$@ %2$@";
 
 /* Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit) */
-"quantity-and-unit-tight" = "%1$@%2$@";
+"quantity-and-unit-tight" = "%1$@ %2$@";
 
 /* Glucose trend up */
 "Rising" = "În creștere";
@@ -143,7 +143,7 @@
 "Some of the values you have entered are outside of what is typically recommended for most people." = "Some of the values you have entered are outside of what is typically recommended for most people.";
 
 /* Title text for suspend threshold */
-"Suspend Threshold" = "Suspend Threshold";
+"Suspend Threshold" = "Limită suspendare";
 
 /* Descriptive text for pre-meal correction range override */
 "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.";
@@ -176,7 +176,7 @@
 "U/hr" = "U/oră";
 
 /* Error description for uncertain delivery */
-"Uncertain Delivery" = "Uncertain Delivery";
+"Uncertain Delivery" = "Livrare incertă";
 
 /* The long unit display string for a singular international unit of insulin */
 "Unit" = "Unități";
@@ -194,7 +194,7 @@
 "When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." = "When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus.";
 
 /* Title for workout mode */
-"Workout" = "Workout";
+"Workout" = "Exercitiu fizic";
 
 /* Descriptive text for basal rate */
 "Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.";

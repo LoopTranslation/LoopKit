@@ -87,7 +87,7 @@
 "Activity" = "Activitate";
 
 /* Button text to confirm adding a new schedule item */
-"Add" = "Add";
+"Add" = "Adaugă";
 
 /* The title of the button to add the credentials for a service */
 "Add Account" = "Adaugă cont";
@@ -108,7 +108,7 @@
 "authentication-button-delete" = "authentication-button-delete";
 
 /* Title text for multi-value basal rate warning */
-"Basal Rates" = "Basal Rates";
+"Basal Rates" = "Rate bazale";
 
 /* Describes a percentage decrease in overall insulin needs */
 "Basal, bolus, and correction insulin dose amounts are decreased by %@%%." = "Dozele de insulină bazale, de bolus și de corecție sunt scăzute cu %@%%.";
@@ -120,13 +120,13 @@
 "Basal, bolus, and correction insulin dose amounts are unaffected." = "Dozele de insulină bazale, de bolus și de corecție sunt neafectate.";
 
 /* No comment provided by engineer. */
-"Below dynamic data" = "Below dynamic data";
+"Below dynamic data" = "Sub datele dinamice";
 
 /* No comment provided by engineer. */
-"Bottom" = "Bottom";
+"Bottom" = "Jos";
 
 /* No comment provided by engineer. */
-"Bottom component" = "Bottom component";
+"Bottom component" = "Componenta de jos";
 
 /* The title of the cancel action in an action sheet */
 "Cancel" = "Renunță";
@@ -138,7 +138,7 @@
 "Canceling Temp Basal" = "Oprește bazala temporară";
 
 /* Title text for multi-value carb ratio warning */
-"Carb Ratios" = "Carb Ratios";
+"Carb Ratios" = "Raport carbohidrați/insulină";
 
 /* Footer text for customizing an override from a preset (1: preset name) */
 "Changes will only apply this time you enable the override. The default settings of %@ will not be affected." = "Modificările se vor aplica doar pe durata înlocuirii. Setările implicite de %@ nu vor fi afectate.";
@@ -151,7 +151,7 @@
 
 /* Button text to close a modal
    Text to close informational page */
-"Close" = "Close";
+"Close" = "Închide";
 
 /* The format string describing the date of a COB value. The first format argument is the localized date. */
 "com.loudnate.CarbKit.COBDateLabel" = "la %1$@";
@@ -169,13 +169,13 @@
 "com.loudnate.LoopKit.errorAlertActionTitle" = "OK";
 
 /* Accessibility label for ProgressIndicatorView when showIndeterminantProgress */
-"Completed." = "Completed.";
+"Completed." = "Finalizat.";
 
 /* The title for the override emoji condition section */
 "Condition" = "Condiție";
 
 /* The button text for confirming the setting */
-"Confirm Setting" = "Confirm Setting";
+"Confirm Setting" = "Confirmați setările";
 
 /* No comment provided by engineer. */
 "content" = "content";
@@ -197,13 +197,13 @@
 
 /* The title for the custom preset entry screen
    The title for the custom preset selection screen */
-"Custom Preset" = "Custom Preset";
+"Custom Preset" = "Presetare particularizată";
 
 /* Title of the carb entry date picker cell */
 "Date" = "Data";
 
 /* Test for table cell delete button */
-"Delete" = "Delete";
+"Delete" = "Șterge";
 
 /* The title of the button to remove the credentials for a service */
 "Delete Account" = "Șterge cont";
@@ -212,30 +212,30 @@
 "Delete All" = "Șterge tot";
 
 /* Title text for crossed thresholds guardrail warning */
-"Delivery Limits" = "Delivery Limits";
+"Delivery Limits" = "Limite administrare";
 
 /* Information about delivery limits */
 "Delivery limits are safety guardrails for your insulin delivery." = "Delivery limits are safety guardrails for your insulin delivery.";
 
 /* The text for the custom preset disable button */
-"Disable Preset" = "Disable Preset";
+"Disable Preset" = "Dezactivează presetarea";
 
 /* Text for dismiss button
    Text for done button */
-"Done" = "Done";
+"Done" = "Terminat";
 
 /* The text for the override duration setting */
 "Duration" = "Durată";
 
 /* No comment provided by engineer. */
-"Dynamic component #%@" = "Dynamic component #%@";
+"Dynamic component #%@" = "Componenta dinamică #%@";
 
 /* No comment provided by engineer. */
-"Dynamic data %@" = "Dynamic data %@";
+"Dynamic data %@" = "Date dinamice %@";
 
 /* Text for edit button
    The title for the enabled custom preset editing screen */
-"Edit" = "Edit";
+"Edit" = "Editare";
 
 /* The title of the view controller to edit an existing carb entry */
 "Edit Carb Entry" = "Editează carbohidrați";
@@ -250,7 +250,7 @@
 "Edits persist only until the preset is disabled. The default settings of %@ will not be affected." = "Edits persist only until the preset is disabled. The default settings of %@ will not be affected.";
 
 /* The button text for enabling a custom preset */
-"Enable" = "Enable";
+"Enable" = "Activează";
 
 /* The text for the indefinite override duration setting */
 "Enable Indefinitely" = "Activează pe termen nedeterminat";
@@ -259,7 +259,7 @@
 "Enabled" = "Activată";
 
 /* Format string for accessibility label for value entry. (1: value label) */
-"Enter %1$@ value" = "Enter %1$@ value";
+"Enter %1$@ value" = "Introduceți valoarea %1$@";
 
 /* The placeholder text instructing users how to enter a maximum bolus */
 "Enter a number of units" = "Introduceți un număr de unități";
@@ -268,7 +268,7 @@
 "Enter a rate in units per hour" = "Introduceți o rată exprimată în unități per oră";
 
 /* No comment provided by engineer. */
-"Example" = "Example";
+"Example" = "Exemplu";
 
 /* Section title for fast absorbing food */
 "Fast" = "Rapidă";
@@ -284,7 +284,7 @@
 
 /* Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range
    Text for go back action on confirmation alert */
-"Go Back" = "Go Back";
+"Go Back" = "Inapoi";
 
 /* Title text for the high basal rate warning */
 "High Basal Rate" = "High Basal Rate";
@@ -460,7 +460,7 @@
 "Save" = "Salvează";
 
 /* Alert title for confirming basal rates outside the recommended range */
-"Save Basal Rates?" = "Save Basal Rates?";
+"Save Basal Rates?" = "Salvați ratele bazale?";
 
 /* Alert title for confirming carb ratios outside the recommended range */
 "Save Carb Ratios?" = "Save Carb Ratios?";
@@ -505,7 +505,7 @@
 "Submitted by %1$@, %2$@" = "Submitted by %1$@, %2$@";
 
 /* Title for support section */
-"Support" = "Support";
+"Support" = "Asistenţă";
 
 /* Title text for button to suspend insulin delivery */
 "Suspend Delivery" = "Suspendă administrarea";
