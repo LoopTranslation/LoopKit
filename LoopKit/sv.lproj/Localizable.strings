@@ -1,5 +1,5 @@
 /* Format for correction range override therapy setting card */
-"%@ Range" = "%@ Intervall";
+"%@ Range" = "%@sintervall";
 
 /* Describes a certain bolus failure (1: size of the bolus in units) */
 "%1$@ U bolus failed" = "%1$@ E bolus misslyckades";

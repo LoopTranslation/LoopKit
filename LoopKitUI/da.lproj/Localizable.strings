@@ -57,7 +57,7 @@
 "A card whose text will wrap onto multiple lines if I continue to type for long enough—this length should do" = "Et kort hvis tekst vil ombryde til flere linjer, hvis jeg fortsætter med at skrive længe nok - denne længde bør gøre";
 
 /* Information about differences between target range and correction range */
-"A correction range is different. This will be a narrower range." = "Et korrektionsområde er anderledes. Dette vil være et snævere område.";
+"A correction range is different. This will be a narrower range." = "Et korrektionsområde er anderledes. Dette vil være et snævere interval.";
 
 /* Caption text for zero maximum bolus setting warning */
 "A setting of 0 U means you will not be able to bolus." = "En indstilling på 0 U betyder, at du ikke vil være i stand til at bolus.";
@@ -215,7 +215,7 @@
 "Delivery Limits" = "Insulin-grænser";
 
 /* Information about delivery limits */
-"Delivery limits are safety guardrails for your insulin delivery." = "Afgivelsesgrænser er sikkerhedsgrænser for insulinafgivelsen.";
+"Delivery limits are safety guardrails for your insulin delivery." = "Insulin-grænser er sikkerhedsgrænser for insulinafgivelsen.";
 
 /* The text for the custom preset disable button */
 "Disable Preset" = "Deaktiver preset";
@@ -277,7 +277,7 @@
 "Fiasp" = "Fiasp";
 
 /* Information about correction range */
-"For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "For dette område, skal du vælge den specifikke glukoseværdi (eller værdiinterval), som du vil have Loop til at sigte efter når Loop justere din basal insulin.";
+"For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "For dette område, skal du vælge det specifikke blodsukker (eller interval), som du vil have Loop til at sigte efter, når Loop justere din basal.";
 
 /* Support button for Therapy Settings */
 "Get help with Therapy Settings" = "Få hjælp til indstillinger";
@@ -311,7 +311,7 @@
 "If these settings look good to you, tap Save Settings to continue." = "Hvis indstillingerne er korrekte, skal du trykke på \"Gem indstillinger\" for at fortsætte.";
 
 /* Information about target range */
-"If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." = "Hvis du har brugt en CGM tidligere er du sandsynligvis bekendt med at få advarsler ud fra et glucoseområde, såsom 70-180 mg / dL eller 90-200 mg / dL.";
+"If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." = "Hvis du har brugt en CGM tidligere er du sandsynligvis bekendt med at få advarsler ud fra et blodsukker interval, såsom 5-10 mmol/L eller 6-12 mmol/L.";
 
 /* Title text for multi-value insulin sensitivity warning */
 "Insulin Sensitivities" = "Insulinfølsomheder";
@@ -613,13 +613,13 @@
 "Warning" = "Advarsel";
 
 /* Disclaimer */
-"Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." = "Arbejd sammen med sundhedspersonalet om at vælge en værdi, der er højere end din højeste planlagte basalrate, men så konservativ eller aggressiv som du føler dig tryg.";
+"Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable." = "Arbejd sammen med sundhedspersonalet om at vælge en værdi, der er højere end din højeste planlagte basalrate, men så konservativ eller aggressiv som du føler dig tryg ved.";
 
 /* Title for the workout override range */
 "Workout" = "Træning";
 
 /* Information about workout range */
-"Workout temp adjust is the glucose value or range of values you want Loop to target during activity." = "Workout temp justere er glukose værdi eller interval af værdier, du ønsker Loop at målrette under aktivitet.";
+"Workout temp adjust is the glucose value or range of values you want Loop to target during activity." = "Træning område er det blodsukker du ønsker Loop skal sigte efter under træning.";
 
 /* Title for workout range information section */
 "Workout temp adjust range" = "Midlertidigt område ved træning";
