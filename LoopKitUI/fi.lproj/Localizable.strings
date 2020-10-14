@@ -45,7 +45,7 @@
 "%1$@ %2$@" = "%1$@ %2$@";
 
 /* Insulin model setting description (1: app name) (2: number of models) */
-"%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." = "%1$@ olettaa, että insuliini vaikuttaa aktiivisesti 6 tuntia. Voit valita %2$@ eri mallista, miten sovellus mittaa insuliinin vaikutushuipun.";
+"%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." = "%1$@ olettaa, että insuliini vaikuttaa aktiivisesti 6 tuntia. Valittavana on %2$@ eri mallia siitä, miten sovellus mittaa insuliinin vaikutushuipun.";
 
 /* Accessibility format string for (1: localized volume)(2: time) */
 "%1$@ units remaining at %2$@" = "%1$@ yksikköä jäljellä klo %2$@";
@@ -311,7 +311,7 @@
 "If these settings look good to you, tap Save Settings to continue." = "Jos nämä asetukset näyttävät sopivilta, jatka napauttamalla Tallenna asetukset.";
 
 /* Information about target range */
-"If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." = "Jos olet käyttänyt jatkuvaa glukoosinseurantaa aiemmin, tavoitealue on todennäköisesti tuttu laajana glukoosiarvoalueena, jonka haluat hälytyksille, esimerkiksi 70–180 mg/dL tai 90–200 mg/dL.";
+"If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." = "Jos olet käyttänyt jatkuvaa glukoosinseurantaa aiemmin, tavoitealue on todennäköisesti tuttu laajana glukoosiarvoalueena, jonka haluat hälytyksille, esimerkiksi 4–10 mmol/L tai 5–12 mmol/L.";
 
 /* Title text for multi-value insulin sensitivity warning */
 "Insulin Sensitivities" = "Insuliiniherkkyydet";
@@ -353,7 +353,7 @@
 "Maximum basal rate" = "Suurin sallittu basaalitaso";
 
 /* Information about maximum basal rate */
-"Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." = "Suurin sallittu basaalitaso on korkein määrä basaali-insuliinille, jonka Loop saa asettaa automaattisesti tavoitellessaan korjausaluetta.";
+"Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." = "Suurin sallittu basaalitaso tarkoittaa korkeinta basaali-insuliinin määrää, jonka Loop saa asettaa automaattisesti tavoitellessaan korjausaluetta.";
 
 /* The title text for the maximum bolus value */
 "Maximum Bolus" = "Suurin sallittu bolus";
@@ -362,7 +362,7 @@
 "Maximum bolus" = "Suurin sallittu bolus";
 
 /* Information about maximum bolus */
-"Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose." = "Suurin sallittu bolus on suurin insuliiniannos, jonka Loop voi antaa yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.";
+"Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose." = "Suurin sallittu bolus tarkoittaa suurinta insuliiniannosta, jonka Loop voi suositella annettavaksi yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.";
 
 /* Section title for medium absorbing food */
 "Medium" = "Keskiverto";
@@ -411,7 +411,7 @@
 "Pre-Meal" = "Ennen ateriaa";
 
 /* Title for pre-meal range information section */
-"Pre-meal temp adjust range" = "Ennen ateriaa -alue";
+"Pre-meal temp adjust range" = "Ennen ateriaa -tavoite";
 
 /* title for prescription section */
 "Prescription" = "Resepti";
@@ -493,7 +493,7 @@
 "Some of the values you have entered are outside of what is typically recommended for most people." = "Jotkut antamistasi arvoista ovat useimmille ihmisille tyypillisesti suositeltavien arvojen ulkopuolella.";
 
 /* Information about typical maximum basal rates */
-"Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." = "Jotkut käyttäjät valitsevat heidän korkeinta basaalitasoaan 2, 3 tai 4 kertaa suuremman arvon.";
+"Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." = "Useimmat käyttäjät valitsevat omaa korkeinta basaalitasoa 2, 3 tai 4 kertaa suuremman arvon.";
 
 /* The text for the override start time */
 "Start Time" = "Alkaa";
@@ -655,8 +655,8 @@
 "Your healthcare provider can help you choose a correction range that's right for you." = "Terveydenhuollon ammattilainen voi auttaa sinua valitsemaan sinulle sopivan korjausalueen.";
 
 /* Description of insulin sensitivity factor */
-"Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." = "Insuliiniherkkyysarvo (ISF) tarkoittaa glukoosin odotettua laskua, jonka yksi yksikkö insuliinia aiheuttaa.";
+"Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." = "Insuliiniherkkyysarvo (ISF) tarkoittaa sitä, kuinka paljon glukoosin odotetaan laskevan yhdellä insuliiniyksiköllä.";
 
 /* Information about pre-meal range */
-"Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." = "Ennen ateriaa -tila tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin korjaavan aterian alkuun mennessä.";
+"Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." = "Ennen ateriaa -tavoite tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän aterian alkuun mennessä.";
 
