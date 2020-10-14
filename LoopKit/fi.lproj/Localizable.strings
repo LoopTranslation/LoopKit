@@ -1,5 +1,5 @@
 /* Format for correction range override therapy setting card */
-"%@ Range" = "%@ alue";
+"%@ Range" = "%@ -tavoite";
 
 /* Describes a certain bolus failure (1: size of the bolus in units) */
 "%1$@ U bolus failed" = "%1$@ U bolus epäonnistui";
@@ -44,7 +44,7 @@
 "Correction Range" = "Korjausalue";
 
 /* Descriptive text for glucose target range */
-"Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.";
+"Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "Korjausalue tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.";
 
 /* Title text for delivery limits */
 "Delivery Limits" = "Annostelurajat";
@@ -89,13 +89,13 @@
 "Maximum Basal Rate" = "Suurin sallittu basaalitaso";
 
 /* Descriptive text for maximum basal rate */
-"Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." = "Suurin sallittu basaalitaso on korkein tilapäinen basaalitaso, jonka Loop saa asettaa automaattisesti.";
+"Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." = "Suurin sallittu basaalitaso tarkoittaa korkeinta tilapäistä basaalitasoa, jonka Loop saa asettaa automaattisesti.";
 
 /* Title text for maximum bolus configuration */
 "Maximum Bolus" = "Suurin sallittu bolus";
 
 /* Descriptive text for maximum bolus */
-"Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Suurin sallittu bolus on suurin bolusmäärä, jonka voi antaa yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.";
+"Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Suurin sallittu bolus tarkoittaa suurinta insuliiniannosta, jonka voi annostella yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.";
 
 /* The short unit display string for milligrams per deciliter per U */
 "mg/dL/U" = "mg/dL/U";
@@ -146,16 +146,16 @@
 "Suspend Threshold" = "Pysäytysraja";
 
 /* Descriptive text for pre-meal correction range override */
-"Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosinousuun.";
+"Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosin nousuun.";
 
 /* Description of pre-meal mode */
-"Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." = "Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosinousuun. Tämä alue voidaan asettaa mihin tahansa pysäytysrajan ja korjausalueen yläarvon välille.";
+"Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." = "Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosin nousuun. Tämä alue voidaan asettaa mihin tahansa pysäytysrajan ja korjausalueen ylärajan välille.";
 
 /* Descriptive text for workout correction range override */
 "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "Nosta glukoositavoitetta väliaikaisesti ennen liikuntaa, sen aikana tai sen jälkeen, jotta matalan glukoosin riski pienenee.";
 
 /* Description of workout mode */
-"Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." = "Nosta glukoositavoitetta tilapäisesti ennen liikuntaa, sen aikana tai sen jälkeen, jotta matalan glukoosin riski pienenee. Tämä alue voidaan asettaa mihin tahansa korjausalueen yläarvon ja 180 mg/dL (10 mmol/L) välille.";
+"Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." = "Nosta glukoositavoitetta tilapäisesti ennen liikuntaa, sen aikana tai sen jälkeen, jotta matalan glukoosin riski pienenee. Tämä alue voidaan asettaa mihin tahansa korjausalueen ylärajan ja 10 mmol/L välille.";
 
 /* Descriptive text for insulin model */
 "The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." = "Sovellus olettaa, että insuliini vaikuttaa aktiivisesti 6 tuntia. Voit valita eri malleista, miten sovellus mittaa insuliinin vaikutushuipun.";
@@ -200,8 +200,8 @@
 "Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Basaalitaso tarkoittaa sitä yksikkömäärää insuliinia tunnissa, jonka tarvitset insuliinin perustarpeen kattamiseen.";
 
 /* Descriptive text for carb ratio */
-"Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." = "Hiilihydraattisuhde on hiilihydraattien grammamäärä, jonka yksi yksikkö insuliinia kattaa.";
+"Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." = "Hiilihydraattisuhde tarkoittaa, kuinka monta grammaa hiilihydraatteja yksi insuliiniyksikkö kattaa.";
 
 /* Descriptive text for insulin sensitivity */
-"Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." = "Insuliiniherkkyys on glukoosin lasku, jonka yksi yksikkö insuliinia odotetaan aiheuttavan.";
+"Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." = "Insuliiniherkkyys tarkoittaa sitä, kuinka paljon glukoosi laskee yhdellä insuliiniyksiköllä.";
 

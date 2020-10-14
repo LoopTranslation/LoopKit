@@ -72,7 +72,7 @@
 "A value of 0 U/hr means you will be scheduled to receive no basal insulin." = "En verdi på 0 IE/t betyr at du ikke vil motta noe basalinsulin.";
 
 /* No comment provided by engineer. */
-"Above dynamic data" = "Above dynamic data";
+"Above dynamic data" = "Over dynamiske data";
 
 /* No comment provided by engineer. */
 "Above the save button" = "Over Lagre-knappen";
@@ -120,7 +120,7 @@
 "Basal, bolus, and correction insulin dose amounts are unaffected." = "Insulindoser for babsal, bolus og korreksjon er uendret.";
 
 /* No comment provided by engineer. */
-"Below dynamic data" = "Below dynamic data";
+"Below dynamic data" = "Under dynamiske data";
 
 /* No comment provided by engineer. */
 "Bottom" = "Nederst";
@@ -197,7 +197,7 @@
 
 /* The title for the custom preset entry screen
    The title for the custom preset selection screen */
-"Custom Preset" = "Custom Preset";
+"Custom Preset" = "Egendefinert innstilling";
 
 /* Title of the carb entry date picker cell */
 "Date" = "Dato";
@@ -218,7 +218,7 @@
 "Delivery limits are safety guardrails for your insulin delivery." = "Leveringsgrenser er sikkerhetstiltak for insulinleveranse. Innstillingene definerer største tillatte basalrate og bolus-dose.";
 
 /* The text for the custom preset disable button */
-"Disable Preset" = "Disable Preset";
+"Disable Preset" = "Deaktiver forhåndsinnstilling";
 
 /* Text for dismiss button
    Text for done button */
@@ -228,10 +228,10 @@
 "Duration" = "Varighet";
 
 /* No comment provided by engineer. */
-"Dynamic component #%@" = "Dynamic component #%@";
+"Dynamic component #%@" = "Dynamisk komponent #%@";
 
 /* No comment provided by engineer. */
-"Dynamic data %@" = "Dynamic data %@";
+"Dynamic data %@" = "Dynamisk data %@";
 
 /* Text for edit button
    The title for the enabled custom preset editing screen */
@@ -259,7 +259,7 @@
 "Enabled" = "Aktivert";
 
 /* Format string for accessibility label for value entry. (1: value label) */
-"Enter %1$@ value" = "Enter %1$@ value";
+"Enter %1$@ value" = "Angi %1$@ verdi";
 
 /* The placeholder text instructing users how to enter a maximum bolus */
 "Enter a number of units" = "Skriv inn antall enheter";
@@ -280,7 +280,7 @@
 "For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "Korreksjonsområdet er den verdien (eller området) du vil at Loop skal korrigere blodsukkeret til.";
 
 /* Support button for Therapy Settings */
-"Get help with Therapy Settings" = "Get help with Therapy Settings";
+"Get help with Therapy Settings" = "Få hjelp med behandlingsinnstillinger";
 
 /* Button text to return to editing a schedule after from alert popup when some schedule values are outside the recommended range
    Text for go back action on confirmation alert */
@@ -308,10 +308,10 @@
 "High Suspend Threshold" = "Høy Grense for insulinstopp";
 
 /* Description of how to interact with summary screen */
-"If these settings look good to you, tap Save Settings to continue." = "If these settings look good to you, tap Save Settings to continue.";
+"If these settings look good to you, tap Save Settings to continue." = "Hvis disse innstillingene ser bra ut, trykk på Lagre innstillingene for å fortsette.";
 
 /* Information about target range */
-"If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." = "If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL.";
+"If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." = "Hvis du har brukt en CGM før, er du sannsynligvis kjent med målområdet som et bredt spekter av verdier du ønsker for glukosevarsler, for eksempel 3,9-10,0 mmol/L eller 5,0-11,1 mmol/L.";
 
 /* Title text for multi-value insulin sensitivity warning */
 "Insulin Sensitivities" = "Insulinsensitivitet";
@@ -320,19 +320,19 @@
 "Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." = "Insulinfølsomhet beskriver hvordan blodsukkeret responderer på 1 enhet insulin. Mindre verdier betyr at mer insulin vil bli gitt når man er over målområdet. Verdier som er for små kan føre til farlig lavt blodsukker. ";
 
 /* Information about max number of basal rates */
-"Loop supports 1 to 48 rates per day." = "Loop supports 1 to 48 rates per day.";
+"Loop supports 1 to 48 rates per day." = "Loop støtter 1 til 48 basalrater per døgn.";
 
 /* Title text for the low basal rate warning */
 "Low Basal Rate" = "Lav basalrate";
 
 /* Title text for the low carb ratio warning */
-"Low Carb Ratio" = "Low Carb Ratio";
+"Low Carb Ratio" = "Lavt karbohydratforhold";
 
 /* Title text for the low correction value warning */
-"Low Correction Value" = "Low Correction Value";
+"Low Correction Value" = "Lav korreksjonsverdi";
 
 /* Title text for the low insulin sensitivity warning */
-"Low Insulin Sensitivity" = "Low Insulin Sensitivity";
+"Low Insulin Sensitivity" = "Lav insulinfølsomhet";
 
 /* Title text for low maximum basal rate warning */
 "Low Maximum Basal Rate" = "Lav maksimal basalrate";
@@ -341,7 +341,7 @@
 "Low Maximum Bolus" = "Lav maksimal bolus-dose";
 
 /* Title text for the low suspend threshold warning */
-"Low Suspend Threshold" = "Low Suspend Threshold";
+"Low Suspend Threshold" = "Lav grense for insulinstopp";
 
 /* Placeholder for maximum value in glucose range */
 "max" = "maks";
@@ -353,7 +353,7 @@
 "Maximum basal rate" = "Maksimal basalrate";
 
 /* Information about maximum basal rate */
-"Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." = "Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range.";
+"Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." = "Maksimal basalhastighet er den maksimale automatisk justerte basalhastigheten som Loop har lov til å gi for å bidra til å nå korreksjonsområdet ditt.";
 
 /* The title text for the maximum bolus value */
 "Maximum Bolus" = "Maksimal bolus-dose";
@@ -362,13 +362,13 @@
 "Maximum bolus" = "Maksimal bolus-dose";
 
 /* Information about maximum bolus */
-"Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose." = "Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose.";
+"Maximum bolus is the highest bolus amount that you will allow Loop to recommend at one time to cover carbs or bring down high glucose." = "Maksimal bolus er den høyeste insulindosen som du vil tillate Loop å anbefale på én gang for å dekke karbohydrater eller få ned høy glukose.";
 
 /* Section title for medium absorbing food */
 "Medium" = "Medium";
 
 /* No comment provided by engineer. */
-"Middle" = "Middle";
+"Middle" = "Middels";
 
 /* Placeholder for minimum value in glucose range */
 "min" = "min";
