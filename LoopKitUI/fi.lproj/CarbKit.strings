@@ -1,5 +1,5 @@
 /* Class = "UILabel"; text = "Authorize access to Health to continue"; ObjectID = "7xi-Om-Y53"; */
-"7xi-Om-Y53.text" = "Salli pääsy Terveys-sovellukseen jatkaaksesi";
+"7xi-Om-Y53.text" = "Jatka sallimalla pääsy Terveys-sovellukseen";
 
 /* Class = "UIButton"; normalTitle = "Authorize"; ObjectID = "8sx-XB-DRV"; */
 "8sx-XB-DRV.normalTitle" = "Salli";

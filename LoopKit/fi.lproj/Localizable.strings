@@ -8,10 +8,10 @@
 "%1$@ U bolus may not have succeeded" = "%1$@ U bolus ei ehkä onnistunut";
 
 /* Descriptive text for guardrail high value warning for schedule interface */
-"A value you have entered is higher than what is typically recommended for most people." = "Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositeltu arvo.";
+"A value you have entered is higher than what is typically recommended for most people." = "Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositeltava arvo.";
 
 /* Descriptive text for guardrail low value warning for schedule interface */
-"A value you have entered is lower than what is typically recommended for most people." = "Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositeltava arvo.";
+"A value you have entered is lower than what is typically recommended for most people." = "Antamasi arvo on pienempi kuin useimmille ihmisille yleensä suositeltava arvo.";
 
 /* The error description describing when Health sharing was denied */
 "Authorization Denied" = "Valtuutus hylättiin";
@@ -116,7 +116,7 @@
 "OK" = "OK";
 
 /* Descriptive text for saving settings outside the recommended range */
-"One or more of the values you have entered is outside of what is typically recommended for most people." = "Yksi tai useampi antamistasi arvoista on sen ulkopuolella, mitä useimmille ihmisille tyypillisesti suositellaan.";
+"One or more of the values you have entered is outside of what is typically recommended for most people." = "Yksi tai useampi antamistasi arvoista on sen ulkopuolella, mitä useimmille ihmisille yleensä suositellaan.";
 
 /* The error recovery suggestion when Health sharing was denied */
 "Please re-enable sharing in Health" = "Ota jakaminen uudelleen käyttöön Terveys-sovelluksessa";
@@ -140,7 +140,7 @@
 "Rising very fast" = "Erittäin nopeasti nouseva";
 
 /* Descriptive text for guardrail high value warning for schedule interface */
-"Some of the values you have entered are outside of what is typically recommended for most people." = "Jotkut antamistasi arvoista on sen ulkopuolella, mitä useimmille ihmisille tyypillisesti suositellaan.";
+"Some of the values you have entered are outside of what is typically recommended for most people." = "Jotkut antamistasi arvoista on sen ulkopuolella, mitä useimmille ihmisille yleensä suositellaan.";
 
 /* Title text for suspend threshold */
 "Suspend Threshold" = "Pysäytysraja";
@@ -164,10 +164,10 @@
 "The value you have entered is higher than what is typically recommended for most people." = "Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositellaan.";
 
 /* Descriptive text for guardrail low value warning */
-"The value you have entered is lower than what is typically recommended for most people." = "Antamasi arvo on pienempi kuin useimmille ihmisille tyypillisesti suositellaan.";
+"The value you have entered is lower than what is typically recommended for most people." = "Antamasi arvo on pienempi kuin useimmille ihmisille yleensä suositellaan.";
 
 /* Descriptive text for guardrail high value warning */
-"The values you have entered are outside of what is typically recommended for most people." = "Antamasi arvot ovat useimmille ihmisille tyypillisesti suositeltujen arvojen ulkopuolella.";
+"The values you have entered are outside of what is typically recommended for most people." = "Antamasi arvot ovat useimmille ihmisille yleensä suositeltujen arvojen ulkopuolella.";
 
 /* The short unit display string for international units of insulin */
 "U" = "U";
@@ -191,7 +191,7 @@
 "Units/hour" = "Yksikköä/tunnissa";
 
 /* Descriptive text for suspend threshold */
-"When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." = "Kun glukoosin ennustetaan alittavan tämän arvon, sovellus suosittelee basaalitasoa 0 U/h, eikä suosittele bolusta.";
+"When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." = "Kun glukoosin ennustetaan alittavan tämän arvon, sovellus suosittelee basaalitasoa 0 U/t, eikä suosittele bolusta.";
 
 /* Title for workout mode */
 "Workout" = "Liikunta";
@@ -200,7 +200,7 @@
 "Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Basaalitaso tarkoittaa sitä yksikkömäärää insuliinia tunnissa, jonka tarvitset insuliinin perustarpeen kattamiseen.";
 
 /* Descriptive text for carb ratio */
-"Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." = "Hiilihydraattisuhde tarkoittaa, kuinka monta grammaa hiilihydraatteja yksi insuliiniyksikkö kattaa.";
+"Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." = "Hiilihydraattisuhde tarkoittaa sitä, kuinka monta grammaa hiilihydraatteja yksi insuliiniyksikkö kattaa.";
 
 /* Descriptive text for insulin sensitivity */
 "Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." = "Insuliiniherkkyys tarkoittaa sitä, kuinka paljon glukoosi laskee yhdellä insuliiniyksiköllä.";

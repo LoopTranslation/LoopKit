@@ -8,7 +8,7 @@
 "No Insulin" = "Ei insuliinia";
 
 /* Status highlight that a pump error occurred. */
-"Pump Error" = "Pumppuvirhe";
+"Pump Error" = "Pumpun virhe";
 
 /* Status highlight that an occlusion was detected. */
 "Pump Occlusion" = "Tukkeutunut pumppu";
