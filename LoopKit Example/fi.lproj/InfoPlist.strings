@@ -2,8 +2,8 @@
 "CFBundleName" = "LoopKit-esimerkki";
 
 /* Privacy - Health Share Usage Description */
-"NSHealthShareUsageDescription" = "Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveys-tietokannan glukoositietoja käytetään graafeihin ja momentum-laskentaan.";
+"NSHealthShareUsageDescription" = "Terveystietokannasta peräisin olevan aterian tietoja käytetään glukoosivaikutusten määrittämiseen. Terveystietokannan glukoositietoja käytetään graafeihin ja glukoosin liikkeen laskentaan.";
 
 /* Privacy - Health Update Usage Description */
-"NSHealthUpdateUsageDescription" = "Sovellukseen syötetyt hiilihydraattiaterian tiedot tallennetaan Terveys-tietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.";
+"NSHealthUpdateUsageDescription" = "Sovellukseen syötetyt hiilihydraattiaterian tiedot tallennetaan Terveystietokantaan. Glukoositiedot tallennetaan turvallisesti HealthKitiin.";
 

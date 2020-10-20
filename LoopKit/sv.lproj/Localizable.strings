@@ -83,7 +83,7 @@
 "It is safe to retry" = "Det är säkert att försöka igen";
 
 /* Recovery suggestion for uncertain delivery */
-"Make sure your pump is within communication range of your phone." = "Säkerställ att din pump är inom räckvidd för kommunikation med pump.";
+"Make sure your pump is within communication range of your phone." = "Säkerställ att din pump är inom räckvidd för kommunikation med telefon.";
 
 /* Title text for maximum basal rate configuration */
 "Maximum Basal Rate" = "Maximal basaldos";

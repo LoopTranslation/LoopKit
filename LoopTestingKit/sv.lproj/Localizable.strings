@@ -1,5 +1,5 @@
 /* Status highlight that delivery is uncertain. */
-"Comms Issue" = "Problem med kommandon";
+"Comms Issue" = "Kommandoproblem";
 
 /* Status highlight that insulin delivery was suspended. */
 "Insulin Suspended" = "Insulintillförsel pausad";

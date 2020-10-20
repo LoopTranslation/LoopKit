@@ -277,7 +277,7 @@
 "Fiasp" = "Fiasp";
 
 /* Information about correction range */
-"For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "Korjausalue on glukoosiarvo (tai arvoalue), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.";
+"For this range, choose the specific glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "Korjausalue tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.";
 
 /* Support button for Therapy Settings */
 "Get help with Therapy Settings" = "Apua hoitoasetuksiin";
@@ -311,7 +311,7 @@
 "If these settings look good to you, tap Save Settings to continue." = "Jos nämä asetukset näyttävät sopivilta, jatka napauttamalla Tallenna asetukset.";
 
 /* Information about target range */
-"If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." = "Jos olet käyttänyt jatkuvaa glukoosinseurantaa aiemmin, tavoitealue on todennäköisesti tuttu laajana glukoosiarvoalueena, jonka haluat hälytyksille, esimerkiksi 4–10 mmol/L tai 5–12 mmol/L.";
+"If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL." = "Jos olet käyttänyt jatkuvaa glukoosinseurantaa aiemmin, tavoitealue on todennäköisesti tuttu laajana glukoosiarvoalueena, jonka haluat hälytyksille, esimerkiksi 4–10 mmol/L tai 5–11 mmol/L.";
 
 /* Title text for multi-value insulin sensitivity warning */
 "Insulin Sensitivities" = "Insuliiniherkkyydet";
@@ -353,7 +353,7 @@
 "Maximum basal rate" = "Suurin sallittu basaalitaso";
 
 /* Information about maximum basal rate */
-"Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." = "Suurin sallittu basaalitaso tarkoittaa korkeinta basaali-insuliinin määrää, jonka Loop saa asettaa automaattisesti tavoitellessaan korjausaluetta.";
+"Maximum basal rate is the maximum automatically adjusted basal rate that Loop is allowed to enact to help reach your correction range." = "Suurin sallittu basaalitaso tarkoittaa suurinta basaali-insuliinin määrää, jonka Loop saa asettaa automaattisesti tavoitellessaan korjausaluetta.";
 
 /* The title text for the maximum bolus value */
 "Maximum Bolus" = "Suurin sallittu bolus";
@@ -423,7 +423,7 @@
 "Progressing." = "Edistyminen.";
 
 /* The title of the screen displaying a pump event */
-"Pump Event" = "Pumpputapahtuma";
+"Pump Event" = "Pumpun tapahtuma";
 
 /* Format string for combining localized numeric value and unit with a space. (1: numeric value)(2: unit) */
 "quantity-and-unit-space" = "%1$@ %2$@";
@@ -450,7 +450,7 @@
 "Review and Save Settings" = "Tarkista ja tallenna asetukset";
 
 /* Description of how to interact with summary screen */
-"Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." = "Tarkista alla olevat hoidon asetukset. Jos haluat muokata jotakin näistä asetuksista, napauta Takaisin.";
+"Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen." = "Tarkista alla olevat hoitoasetukset. Jos haluat muokata jotakin näistä asetuksista, napauta Takaisin.";
 
 /* The text for the override preset name field placeholder */
 "Running" = "Juoksu";
@@ -466,7 +466,7 @@
 "Save Carb Ratios?" = "Tallenna hiilihydraattisuhteet?";
 
 /* Alert title for confirming correction range overrides outside the recommended range */
-"Save Correction Range Overrides?" = "Tallenna korjausalueen ohitukset?";
+"Save Correction Range Overrides?" = "Tallenna korjausalueen ylitykset?";
 
 /* Alert title for confirming correction ranges outside the recommended range */
 "Save Correction Range(s)?" = "Tallenna korjausalue(et)?";
@@ -490,7 +490,7 @@
 "Slow" = "Hidas";
 
 /* Caption for guardrail warning when more than one threshold is crossed */
-"Some of the values you have entered are outside of what is typically recommended for most people." = "Jotkut antamistasi arvoista ovat useimmille ihmisille tyypillisesti suositeltavien arvojen ulkopuolella.";
+"Some of the values you have entered are outside of what is typically recommended for most people." = "Jotkut antamistasi arvoista ovat useimmille ihmisille yleensä suositeltavien arvojen ulkopuolella.";
 
 /* Information about typical maximum basal rates */
 "Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." = "Useimmat käyttäjät valitsevat omaa korkeinta basaalitasoa 2, 3 tai 4 kertaa suuremman arvon.";
@@ -551,13 +551,13 @@
 "The rapid-acting child model assumes peak activity at 65 minutes." = "Nopeavaikutteinen lasten malli olettaa vaikutushuippua 65 minuutissa.";
 
 /* Information about basal rate scheduling */
-"The schedule starts at midnight and cannot contain a rate of 0 U/hr." = "Aikataulu alkaa keskiyöstä, eikä se voi sisältää 0 U/t basaalitasoa.";
+"The schedule starts at midnight and cannot contain a rate of 0 U/hr." = "Aikataulu alkaa keskiyöstä, eikä se voi sisältää basaalitasoa 0 U/t.";
 
 /* Therapy Settings screen title */
-"Therapy Settings" = "Hoidon asetukset";
+"Therapy Settings" = "Hoitoasetukset";
 
 /* No comment provided by engineer. */
-"Therapy Settings Support Placeholder" = "Terapia-asetusten tuen paikkamerkki";
+"Therapy Settings Support Placeholder" = "Hoitoasetusten tuen paikkamerkki";
 
 /* Subtitle of Fiasp preset */
 "This model assumes peak insulin activity at 55 minutes." = "Tässä mallissa oletetaan, että insuliinin vaikutushuippu on 55 minuutissa.";
@@ -619,10 +619,10 @@
 "Workout" = "Liikunta";
 
 /* Information about workout range */
-"Workout temp adjust is the glucose value or range of values you want Loop to target during activity." = "Liikuntatila tarkoittaa glukoosiarvoa tai arvoaluetta, johon haluat Loopin tähtäävän liikunnan aikana.";
+"Workout temp adjust is the glucose value or range of values you want Loop to target during activity." = "Liikuntatavoite tarkoittaa glukoosiarvoa tai arvoaluetta, johon haluat Loopin tähtäävän liikunnan aikana.";
 
 /* Title for workout range information section */
-"Workout temp adjust range" = "Liikuntatilan alue";
+"Workout temp adjust range" = "Liikuntatavoite";
 
 /* Description of how to add a ratio */
 "You can add different carb ratios for different times of day by using the ➕." = "Voit lisätä erilaisia hiilihydraattisuhteita eri aikoihin päivästä napauttamalla ➕.";
@@ -655,7 +655,7 @@
 "Your healthcare provider can help you choose a correction range that's right for you." = "Terveydenhuollon ammattilainen voi auttaa sinua valitsemaan sinulle sopivan korjausalueen.";
 
 /* Description of insulin sensitivity factor */
-"Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." = "Insuliiniherkkyysarvo (ISF) tarkoittaa sitä, kuinka paljon glukoosin odotetaan laskevan yhdellä insuliiniyksiköllä.";
+"Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." = "Insuliiniherkkyys (ISF) tarkoittaa sitä, kuinka paljon glukoosin odotetaan laskevan yhdellä insuliiniyksiköllä.";
 
 /* Information about pre-meal range */
 "Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." = "Ennen ateriaa -tavoite tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän aterian alkuun mennessä.";
