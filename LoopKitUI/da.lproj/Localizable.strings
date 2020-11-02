@@ -45,7 +45,7 @@
 "%1$@ %2$@" = "%1$@ %2$@";
 
 /* Insulin model setting description (1: app name) (2: number of models) */
-"%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." = "%1$@ antager, at insulin er aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan appen måler insulinets maksimale aktivitet.";
+"%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." = "%1$@ antager, at insulin er aktivt i 6 timer. Du kan vælge mellem %2$@ forskellige modeller for, hvordan Loop bruger insulinets maksimale effekt i sine beregninger.";
 
 /* Accessibility format string for (1: localized volume)(2: time) */
 "%1$@ units remaining at %2$@" = "%1$@ enheder tilbage ved %2$@";
@@ -69,7 +69,7 @@
 "A simple card" = "Et simpelt kort";
 
 /* Warning text for basal rate of 0 U/hr */
-"A value of 0 U/hr means you will be scheduled to receive no basal insulin." = "En værdi på 0 U/time betyder, at du ikke vil modtage basal i den angivende tidesperiode.";
+"A value of 0 U/hr means you will be scheduled to receive no basal insulin." = "En værdi på 0 E/time betyder, at du ikke vil modtage basal i den angivende tidesperiode.";
 
 /* No comment provided by engineer. */
 "Above dynamic data" = "Over dynamisk data";
@@ -383,7 +383,7 @@
 "Name" = "Navn";
 
 /* Title for mini-modal to add a new schedule entry */
-"New Entry" = "Ny indtastning";
+"New Entry" = " ";
 
 /* The title for the new override preset entry screen */
 "New Preset" = "Ny preset";
@@ -411,7 +411,7 @@
 "Pre-Meal" = "Før-måltid";
 
 /* Title for pre-meal range information section */
-"Pre-meal temp adjust range" = "Midlertidig Før-måltid justeringsområde";
+"Pre-meal temp adjust range" = "Før-måltid - Midlertidig korrektionsområde";
 
 /* title for prescription section */
 "Prescription" = "Recept";
@@ -545,13 +545,13 @@
 "The maximum allowed amount is %@ grams" = "Den maksimalt tilladte mængde er %@ grams";
 
 /* Information about adult insulin model */
-"The rapid-acting adult model assumes peak activity at 75 minutes." = "Den rapid-acting adult model antager peak aktivitet på 75 minutter.";
+"The rapid-acting adult model assumes peak activity at 75 minutes." = "Den rapid-acting adult model antager maksimal effekt ved 75 minutter.";
 
 /* Information about child insulin model */
-"The rapid-acting child model assumes peak activity at 65 minutes." = "Den rapid-acting adult model antager peak aktivitet på 65 minutter.";
+"The rapid-acting child model assumes peak activity at 65 minutes." = "Den rapid-acting adult model antager maksimal effekt ved 65 minutter.";
 
 /* Information about basal rate scheduling */
-"The schedule starts at midnight and cannot contain a rate of 0 U/hr." = "Tidsplanen starter ved midnat og kan ikke indeholde en dosis på 0 U/time.";
+"The schedule starts at midnight and cannot contain a rate of 0 U/hr." = "Tidsplanen starter ved midnat og kan ikke indeholde en dosis på 0 E/time.";
 
 /* Therapy Settings screen title */
 "Therapy Settings" = "Indstillinger";
@@ -563,10 +563,10 @@
 "This model assumes peak insulin activity at 55 minutes." = "Denne model forudsætter peak insulin aktivitet på 55 minutter.";
 
 /* Subtitle of Rapid-Acting – Children preset */
-"This model assumes peak insulin activity at 65 minutes." = "Denne model forudsætter peak insulin aktivitet på 65 minutter.";
+"This model assumes peak insulin activity at 65 minutes." = "Denne model forudsætter maksimal effekt ved 65 minutter.";
 
 /* Subtitle of Rapid-Acting – Adult preset */
-"This model assumes peak insulin activity at 75 minutes." = "Denne model forudsætter peak insulin aktivitet på 75 minutter.";
+"This model assumes peak insulin activity at 75 minutes." = "Denne model forudsætter maksimal effekt ved 75 minutter.";
 
 /* Information about pre-meal range relative to correction range
    Information about workout range relative to correction range */
@@ -619,10 +619,10 @@
 "Workout" = "Træning";
 
 /* Information about workout range */
-"Workout temp adjust is the glucose value or range of values you want Loop to target during activity." = "Træning område er det blodsukker du ønsker Loop skal sigte efter under træning.";
+"Workout temp adjust is the glucose value or range of values you want Loop to target during activity." = "Træningsområde er det blodsukker du ønsker Loop skal sigte efter under træning.";
 
 /* Title for workout range information section */
-"Workout temp adjust range" = "Midlertidigt område ved træning";
+"Workout temp adjust range" = "Træning - Midlertidigt korrektionsområde";
 
 /* Description of how to add a ratio */
 "You can add different carb ratios for different times of day by using the ➕." = "Du kan tilføje forskellige kulhydratforhold for forskellige tidspunkter af dagen ved hjælp af ➕.";
@@ -652,7 +652,7 @@
 "Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "En basalrate, er det antal af insulinenheder i timen, som du skal bruge for at dække dit basale insulinbehov.";
 
 /* Disclaimer */
-"Your healthcare provider can help you choose a correction range that's right for you." = "Din læge kan hjælpe dig med at vælge et korrektionsområde, der passer til dig.";
+"Your healthcare provider can help you choose a correction range that's right for you." = " ";
 
 /* Description of insulin sensitivity factor */
 "Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." = "Insulinfølsomhed (ISF) henviser til det fald i blodsukkeret, der forventes fra én insulinenhed.";

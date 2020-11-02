@@ -105,7 +105,7 @@
 "Authenticate to save therapy setting" = "Autentifică-te pentru a salva setările terapiei";
 
 /* The title of the button to remove the credentials for a service */
-"authentication-button-delete" = "authentication-button-delete";
+"authentication-button-delete" = "autentificare-buton-ștergere";
 
 /* Title text for multi-value basal rate warning */
 "Basal Rates" = "Rate bazale";
@@ -411,7 +411,7 @@
 "Pre-Meal" = "Preprandial";
 
 /* Title for pre-meal range information section */
-"Pre-meal temp adjust range" = "Pre-meal temp adjust range";
+"Pre-meal temp adjust range" = "Intervalul dumneavoastră temporar de ajustare a valorilor dinaintea mesei";
 
 /* title for prescription section */
 "Prescription" = "Prescripție";
@@ -619,10 +619,10 @@
 "Workout" = "Activitate sportivă";
 
 /* Information about workout range */
-"Workout temp adjust is the glucose value or range of values you want Loop to target during activity." = "Workout temp adjust is the glucose value or range of values you want Loop to target during activity.";
+"Workout temp adjust is the glucose value or range of values you want Loop to target during activity." = "Intervalul dumneavoastră temporar de ajustare a valorilor in timpul exercițiilor fizice ar trebui să fie valoarea glicemiei sau intervalul valorilor pe care doriţi ca Loop să o ţintească în timpul activității.";
 
 /* Title for workout range information section */
-"Workout temp adjust range" = "Workout temp adjust range";
+"Workout temp adjust range" = "Intervalul dumneavoastră temporar de ajustare pentru sport";
 
 /* Description of how to add a ratio */
 "You can add different carb ratios for different times of day by using the ➕." = "Poți adăuga diferite rații carbohidrați/insulina pentru diferite momente ale zilei folosind ➕.";
@@ -658,5 +658,5 @@
 "Your insulin sensitivity factor (ISF) is the drop in glucose expected from one unit of insulin." = "Factorul dumneavoastră de sensibilitate la insulină (ISF) este scăderea glicemiei determinata de o unitate de insulină.";
 
 /* Information about pre-meal range */
-"Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." = "Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal.";
+"Your pre-meal temp adjust range should be the glucose value (or range of values) you want Loop to target by the time you take your first bite of your meal." = "Intervalul dumneavoastră temporar de ajustare a valorilor dinaintea mesei ar trebui să fie valoarea glicemiei (sau intervalul valorilor) pe care doriţi ca Loop să o ţintească în momentul în care incepeți să mâncați.";
 

@@ -45,7 +45,7 @@
 "%1$@ %2$@" = "%1$@ %2$@";
 
 /* Insulin model setting description (1: app name) (2: number of models) */
-"%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." = "%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.";
+"%1$@ assumes insulin is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." = "%1$@ gaat ervan uit dat insuline 6 uur actief werkt. Je kunt kiezen uit %2$@ verschillende modellen voor hoe de app de piekactiviteit van de insuline meet.";
 
 /* Accessibility format string for (1: localized volume)(2: time) */
 "%1$@ units remaining at %2$@" = "%1$@ nog actieve eenheden %2$@";
@@ -259,7 +259,7 @@
 "Enabled" = "Ingeschakeld";
 
 /* Format string for accessibility label for value entry. (1: value label) */
-"Enter %1$@ value" = "Enter %1$@ value";
+"Enter %1$@ value" = "Voer %1$@ waarde in";
 
 /* The placeholder text instructing users how to enter a maximum bolus */
 "Enter a number of units" = "Voer aantal eenheden in";
@@ -490,7 +490,7 @@
 "Slow" = "Langzaam";
 
 /* Caption for guardrail warning when more than one threshold is crossed */
-"Some of the values you have entered are outside of what is typically recommended for most people." = "Some of the values you have entered are outside of what is typically recommended for most people.";
+"Some of the values you have entered are outside of what is typically recommended for most people." = "Sommige van de waarden die u hebt ingevoerd vallen buiten wat algemeen wordt aanbevolen.";
 
 /* Information about typical maximum basal rates */
 "Some users choose a value 2, 3, or 4 times their highest scheduled basal rate." = "Sommige gebruikers kiezen een waarde 2, 3 of 4 keer de hoogst geplande basaal snelheid.";
