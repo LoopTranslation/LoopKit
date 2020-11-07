@@ -8,7 +8,7 @@
 "-" = "-";
 
 /* No comment provided by engineer. */
-"－" = "－";
+"－" = "-";
 
 /* No comment provided by engineer. */
 "–" = "–";
@@ -126,7 +126,7 @@
 "Bottom" = "Nederst";
 
 /* No comment provided by engineer. */
-"Bottom component" = "Bottom component";
+"Bottom component" = "Nedre komponent";
 
 /* The title of the cancel action in an action sheet */
 "Cancel" = "Avbryt";
@@ -374,7 +374,7 @@
 "min" = "min";
 
 /* No comment provided by engineer. */
-"more content" = "more content";
+"more content" = "mer innhold";
 
 /* Alert action title to open error help */
 "More Info" = "Mer info";
@@ -383,7 +383,7 @@
 "Name" = "Navn";
 
 /* Title for mini-modal to add a new schedule entry */
-"New Entry" = "New Entry";
+"New Entry" = "Ny oppføring";
 
 /* The title for the new override preset entry screen */
 "New Preset" = "Ny forhåndsinstilling";
@@ -411,16 +411,16 @@
 "Pre-Meal" = "Pre-måltid";
 
 /* Title for pre-meal range information section */
-"Pre-meal temp adjust range" = "Pre-meal temp adjust range";
+"Pre-meal temp adjust range" = "Temporært målområde før måltid";
 
 /* title for prescription section */
-"Prescription" = "Prescription";
+"Prescription" = "Resept";
 
 /* The section header text override presets */
 "PRESETS" = "FORHÅNDSINSTILLINGER";
 
 /* Accessibility label for ProgressIndicatorView when showIndeterminantProgress */
-"Progressing." = "Progressing.";
+"Progressing." = "Fremdrift.";
 
 /* The title of the screen displaying a pump event */
 "Pump Event" = "Pumpehendelse";
@@ -484,7 +484,7 @@
 "SCHEDULED OVERRIDE" = "PLANLAGT OVERSTYRING";
 
 /* The section header text for a scheduled custom preset */
-"SCHEDULED PRESET" = "SCHEDULED PRESET";
+"SCHEDULED PRESET" = "PLANLAGT OVERRIDE";
 
 /* Section title for slow absorbing food */
 "Slow" = "Langsom";
@@ -502,7 +502,7 @@
 "Starting Temp Basal" = "Starter temp-basal";
 
 /* Format for prescription descriptive text (1: providerName, 2: datePrescribed) */
-"Submitted by %1$@, %2$@" = "Submitted by %1$@, %2$@";
+"Submitted by %1$@, %2$@" = "Innsendt av %1$@, %2$@";
 
 /* Title for support section */
 "Support" = "Support";
@@ -520,7 +520,7 @@
 "Symbol" = "Symbol";
 
 /* Text directing the user to configure their first custom preset */
-"Tap '+' to create a new custom preset." = "Tap '+' to create a new custom preset.";
+"Tap '+' to create a new custom preset." = "Trykk på '+' for å opprette en ny 'Override'.";
 
 /* The empty-state text for a configuration value */
 "Tap to set" = "Trykk for å angi";
@@ -533,10 +533,10 @@
 
 /* Information about pre-meal range relative to correction range
    Information about workout range relative to correction range */
-"than your correction range" = "than your correction range";
+"than your correction range" = "enn ditt korrigeringsområde";
 
 /* Subtitle description of Walsh insulin model setting */
-"The legacy model used by Loop, allowing customization of action duration." = "The legacy model used by Loop, allowing customization of action duration.";
+"The legacy model used by Loop, allowing customization of action duration." = "Den gamle modellen brukt av Loop, tillater endring av insulinvarighet.";
 
 /* Alert body displayed absorption time greater than max (1: maximum absorption time) */
 "The maximum absorption time is %@" = "Maks absorpsjonstid er %@";
@@ -545,44 +545,44 @@
 "The maximum allowed amount is %@ grams" = "Maks tillatt mengde er %@ gram";
 
 /* Information about adult insulin model */
-"The rapid-acting adult model assumes peak activity at 75 minutes." = "The rapid-acting adult model assumes peak activity at 75 minutes.";
+"The rapid-acting adult model assumes peak activity at 75 minutes." = "Den hurtigvirkende modellen for voksne antar maksimal insulinaktivitet etter 75 minutter.";
 
 /* Information about child insulin model */
-"The rapid-acting child model assumes peak activity at 65 minutes." = "The rapid-acting child model assumes peak activity at 65 minutes.";
+"The rapid-acting child model assumes peak activity at 65 minutes." = "Den hurtigvirkende modellen for barn antar maksimal insulinaktivitet etter 65 minutter.";
 
 /* Information about basal rate scheduling */
-"The schedule starts at midnight and cannot contain a rate of 0 U/hr." = "The schedule starts at midnight and cannot contain a rate of 0 U/hr.";
+"The schedule starts at midnight and cannot contain a rate of 0 U/hr." = "Tidsplanen starter ved midnatt, og kan ikke inneholde en basalrate på 0 E/time.";
 
 /* Therapy Settings screen title */
-"Therapy Settings" = "Therapy Settings";
+"Therapy Settings" = "Behandlingsinnstillinger";
 
 /* No comment provided by engineer. */
 "Therapy Settings Support Placeholder" = "Therapy Settings Support Placeholder";
 
 /* Subtitle of Fiasp preset */
-"This model assumes peak insulin activity at 55 minutes." = "This model assumes peak insulin activity at 55 minutes.";
+"This model assumes peak insulin activity at 55 minutes." = "Denne modellen antar maksimal insulinaktivitet etter 55 minutter.";
 
 /* Subtitle of Rapid-Acting – Children preset */
-"This model assumes peak insulin activity at 65 minutes." = "This model assumes peak insulin activity at 65 minutes.";
+"This model assumes peak insulin activity at 65 minutes." = "Denne modellen antar maksimal insulinaktivitet etter 65 minutter.";
 
 /* Subtitle of Rapid-Acting – Adult preset */
-"This model assumes peak insulin activity at 75 minutes." = "This model assumes peak insulin activity at 75 minutes.";
+"This model assumes peak insulin activity at 75 minutes." = "Denne modellen antar maksimal insulinaktivitet etter 75 minutter.";
 
 /* Information about pre-meal range relative to correction range
    Information about workout range relative to correction range */
 "This will typically be" = "Dette vil typisk være";
 
 /* Label for offset from midnight picker */
-"Time" = "Time";
+"Time" = "Tid";
 
 /* The schedule table view header describing the configured time zone difference from the default time zone. The substitution parameters are: (1: time zone name)(2: +/-)(3: time interval) */
 "Times in %1$@%2$@%3$@" = "Tider i %1$@%2$@%3$@";
 
 /* No comment provided by engineer. */
-"To be implemented" = "To be implemented";
+"To be implemented" = "Skal implementeres";
 
 /* No comment provided by engineer. */
-"Top" = "Top";
+"Top" = "Topp";
 
 /* No comment provided by engineer. */
 "Top component" = "Top component";
@@ -628,7 +628,7 @@
 "You can add different carb ratios for different times of day by using the ➕." = "Du kan legge til forskjellige karbohydratforhold for forskjellige tider på dagen ved å bruke ➕.";
 
 /* Description of how to add a ratio */
-"You can add different insulin sensitivities for different times of day by using the ➕." = "You can add different insulin sensitivities for different times of day by using the ➕.";
+"You can add different insulin sensitivities for different times of day by using the ➕." = "Du kan legge til forskjellige karbohydratforhold for forskjellige tider på dagen, ved å bruke ➕.";
 
 /* Description of how to add a configuration range */
 "You can add different ranges for different times of day by using the ➕." = "You can add different ranges for different times of day by using the ➕.";
