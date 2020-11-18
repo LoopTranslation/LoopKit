@@ -1,15 +1,15 @@
 /* Status highlight that delivery is uncertain. */
-"Comms Issue" = "Comms Issue";
+"Comms Issue" = "Kommunikasjons problem";
 
 /* Status highlight that insulin delivery was suspended. */
-"Insulin Suspended" = "Insulin Suspended";
+"Insulin Suspended" = "Insulintilførsel stoppet";
 
 /* Status highlight that a pump is out of insulin. */
-"No Insulin" = "No Insulin";
+"No Insulin" = "Tom for insulin";
 
 /* Status highlight that a pump error occurred. */
-"Pump Error" = "Pump Error";
+"Pump Error" = "Pumpefeil";
 
 /* Status highlight that an occlusion was detected. */
-"Pump Occlusion" = "Pump Occlusion";
+"Pump Occlusion" = "Pumpen er blokkert";
 
