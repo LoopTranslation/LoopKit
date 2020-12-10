@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "–" = "–";
 
-/* The detail text representing no value */
-"—" = "—";
-
 /* Information about insulin action duration */
 "(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." = "(appName) olettaa, että annosteltu insuliini alentaa aktiivisesti glukoosia 6 tunnin ajan. Tätä asetusta ei voi muuttaa.";
 
@@ -58,12 +55,6 @@
 
 /* Information about differences between target range and correction range */
 "A correction range is different. This will be a narrower range." = "Korjausalue tarkoittaa eri asiaa. Se on kapeampi alue.";
-
-/* Caption text for zero maximum bolus setting warning */
-"A setting of 0 U means you will not be able to bolus." = "Asetus 0 U tarkoittaa, että et voi antaa bolusta.";
-
-/* Caption text for low maximum basal rate warning */
-"A setting of 0 U/hr means Loop will not automatically administer insulin." = "Asetus 0 U/t tarkoittaa, että Loop ei säädä basaalitasoja automaattisesti.";
 
 /* No comment provided by engineer. */
 "A simple card" = "Yksinkertainen kortti";
@@ -304,9 +295,6 @@
 /* Title text for high maximum bolus warning */
 "High Maximum Bolus" = "Korkea suurin sallittu bolus";
 
-/* Title text for the high suspend threshold warning */
-"High Suspend Threshold" = "Korkea pysäytysraja";
-
 /* Description of how to interact with summary screen */
 "If these settings look good to you, tap Save Settings to continue." = "Jos nämä asetukset näyttävät sopivilta, jatka napauttamalla Tallenna asetukset.";
 
@@ -339,9 +327,6 @@
 
 /* Title text for low maximum bolus warning */
 "Low Maximum Bolus" = "Matala suurin sallittu bolus";
-
-/* Title text for the low suspend threshold warning */
-"Low Suspend Threshold" = "Matala pysäytysraja";
 
 /* Placeholder for maximum value in glucose range */
 "max" = "maks.";
@@ -465,9 +450,6 @@
 /* Alert title for confirming carb ratios outside the recommended range */
 "Save Carb Ratios?" = "Tallenna hiilihydraattisuhteet?";
 
-/* Alert title for confirming correction range overrides outside the recommended range */
-"Save Correction Range Overrides?" = "Tallenna korjausalueen ylitykset?";
-
 /* Alert title for confirming correction ranges outside the recommended range */
 "Save Correction Range(s)?" = "Tallenna korjausalue(et)?";
 
@@ -476,9 +458,6 @@
 
 /* Alert title for confirming insulin sensitivities outside the recommended range */
 "Save Insulin Sensitivities?" = "Tallenna insuliiniherkkyydet?";
-
-/* Alert title for confirming a suspend threshold outside the recommended range */
-"Save Suspend Threshold?" = "Tallenna pysäytysraja?";
 
 /* The section header text for a scheduled override */
 "SCHEDULED OVERRIDE" = "AJASTETTU TILAPÄISASETUS";

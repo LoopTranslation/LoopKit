@@ -142,14 +142,8 @@
 /* Descriptive text for guardrail high value warning for schedule interface */
 "Some of the values you have entered are outside of what is typically recommended for most people." = "Sommige van de waarden die u hebt ingevoerd vallen buiten wat algemeen wordt aanbevolen.";
 
-/* Title text for suspend threshold */
-"Suspend Threshold" = "Onderbrekingsdrempel";
-
 /* Descriptive text for pre-meal correction range override */
 "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "Tijdelijk verlagen van uw glucosedoel voor een maaltijd (pre-meal) om invloed te hebben op post-maaltijd glucose pieken.";
-
-/* Description of pre-meal mode */
-"Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." = "Tijdelijk verlagen van uw glucosedoel voor een maaltijd om invloed te hebben op na de maaltijd glucose piek. Dit kan ingesteld worden van je onderbrekingsdrempel tot het maximum van je correctie bereik.";
 
 /* Descriptive text for workout correction range override */
 "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "Verhoog tijdelijk je glucosedoel voor, gedurende of na fysieke activiteit om het risico van lage glucosewaardes te verminderen.";
@@ -189,9 +183,6 @@
 
 /* The long unit display string for international units of insulin per hour */
 "Units/hour" = "Eenheid/uur";
-
-/* Descriptive text for suspend threshold */
-"When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." = "Wanneer je glucose wordt voorspeld onder deze waarde te gaan de app adviseert een basaalstand van 0 E/uur en adviseert geen bolus.";
 
 /* Title for workout mode */
 "Workout" = "Training";

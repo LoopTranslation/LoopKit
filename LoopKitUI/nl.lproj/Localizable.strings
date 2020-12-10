@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "–" = "–";
 
-/* The detail text representing no value */
-"—" = "—";
-
 /* Information about insulin action duration */
 "(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." = "(appName) gaat ervan uit dat de geleverde insuline actief werkt om je glucose gedurende 6 uur te verlagen. Deze instelling kan niet worden gewijzigd.";
 
@@ -58,12 +55,6 @@
 
 /* Information about differences between target range and correction range */
 "A correction range is different. This will be a narrower range." = "Een correctiebereik is anders. Dit zal een smaller bereik zijn.";
-
-/* Caption text for zero maximum bolus setting warning */
-"A setting of 0 U means you will not be able to bolus." = "Een instelling van 0 E betekent dat je niet in staat zal zijn om bolus te geven.";
-
-/* Caption text for low maximum basal rate warning */
-"A setting of 0 U/hr means Loop will not automatically administer insulin." = "Een instelling van 0 E/uur betekent dat Loop niet automatisch insuline toedient.";
 
 /* No comment provided by engineer. */
 "A simple card" = "Een eenvoudige kaart";
@@ -304,9 +295,6 @@
 /* Title text for high maximum bolus warning */
 "High Maximum Bolus" = "Hoge Maximum Bolus";
 
-/* Title text for the high suspend threshold warning */
-"High Suspend Threshold" = "Hoge onderbrekingsdrempel";
-
 /* Description of how to interact with summary screen */
 "If these settings look good to you, tap Save Settings to continue." = "Als deze instellingen er goed uitzien, tikt u op Instellingen opslaan om door te gaan.";
 
@@ -339,9 +327,6 @@
 
 /* Title text for low maximum bolus warning */
 "Low Maximum Bolus" = "Lage Maximum Bolus";
-
-/* Title text for the low suspend threshold warning */
-"Low Suspend Threshold" = "Lage onderbrekingsdrempel";
 
 /* Placeholder for maximum value in glucose range */
 "max" = "max";
@@ -465,9 +450,6 @@
 /* Alert title for confirming carb ratios outside the recommended range */
 "Save Carb Ratios?" = "Koolhydraten verhoudingen opslaan?";
 
-/* Alert title for confirming correction range overrides outside the recommended range */
-"Save Correction Range Overrides?" = "Correctie bereik tijdelijke instellingen opslaan?";
-
 /* Alert title for confirming correction ranges outside the recommended range */
 "Save Correction Range(s)?" = "Opslaan correctiebereik?";
 
@@ -476,9 +458,6 @@
 
 /* Alert title for confirming insulin sensitivities outside the recommended range */
 "Save Insulin Sensitivities?" = "Insuline gevoeligheden opslaan?";
-
-/* Alert title for confirming a suspend threshold outside the recommended range */
-"Save Suspend Threshold?" = "Onderbreking drempel opslaan?";
 
 /* The section header text for a scheduled override */
 "SCHEDULED OVERRIDE" = "GEPLAND TIJDELIJK PROGRAMMA";

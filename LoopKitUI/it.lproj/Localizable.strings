@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "–" = "–";
 
-/* The detail text representing no value */
-"—" = "—";
-
 /* Information about insulin action duration */
 "(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." = "(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed.";
 
@@ -58,12 +55,6 @@
 
 /* Information about differences between target range and correction range */
 "A correction range is different. This will be a narrower range." = "A correction range is different. This will be a narrower range.";
-
-/* Caption text for zero maximum bolus setting warning */
-"A setting of 0 U means you will not be able to bolus." = "A setting of 0 U means you will not be able to bolus.";
-
-/* Caption text for low maximum basal rate warning */
-"A setting of 0 U/hr means Loop will not automatically administer insulin." = "A setting of 0 U/hr means Loop will not automatically administer insulin.";
 
 /* No comment provided by engineer. */
 "A simple card" = "A simple card";
@@ -304,9 +295,6 @@
 /* Title text for high maximum bolus warning */
 "High Maximum Bolus" = "High Maximum Bolus";
 
-/* Title text for the high suspend threshold warning */
-"High Suspend Threshold" = "High Suspend Threshold";
-
 /* Description of how to interact with summary screen */
 "If these settings look good to you, tap Save Settings to continue." = "If these settings look good to you, tap Save Settings to continue.";
 
@@ -339,9 +327,6 @@
 
 /* Title text for low maximum bolus warning */
 "Low Maximum Bolus" = "Low Maximum Bolus";
-
-/* Title text for the low suspend threshold warning */
-"Low Suspend Threshold" = "Low Suspend Threshold";
 
 /* Placeholder for maximum value in glucose range */
 "max" = "max";
@@ -465,9 +450,6 @@
 /* Alert title for confirming carb ratios outside the recommended range */
 "Save Carb Ratios?" = "Save Carb Ratios?";
 
-/* Alert title for confirming correction range overrides outside the recommended range */
-"Save Correction Range Overrides?" = "Save Correction Range Overrides?";
-
 /* Alert title for confirming correction ranges outside the recommended range */
 "Save Correction Range(s)?" = "Save Correction Range(s)?";
 
@@ -476,9 +458,6 @@
 
 /* Alert title for confirming insulin sensitivities outside the recommended range */
 "Save Insulin Sensitivities?" = "Save Insulin Sensitivities?";
-
-/* Alert title for confirming a suspend threshold outside the recommended range */
-"Save Suspend Threshold?" = "Save Suspend Threshold?";
 
 /* The section header text for a scheduled override */
 "SCHEDULED OVERRIDE" = "REGOLAZIONE MANUALE PROGRAMMATA";

@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "–" = "–";
 
-/* The detail text representing no value */
-"—" = "—";
-
 /* Information about insulin action duration */
 "(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." = "(appName) antager, at den insulin, det har leveret, arbejder aktivt på at sænke din glukose i 6 timer. Denne indstilling kan ikke ændres.";
 
@@ -58,12 +55,6 @@
 
 /* Information about differences between target range and correction range */
 "A correction range is different. This will be a narrower range." = "Et korrektionsområde er anderledes. Dette vil være et snævere interval.";
-
-/* Caption text for zero maximum bolus setting warning */
-"A setting of 0 U means you will not be able to bolus." = "En indstilling på 0 U betyder, at du ikke vil være i stand til at bolus.";
-
-/* Caption text for low maximum basal rate warning */
-"A setting of 0 U/hr means Loop will not automatically administer insulin." = "En indstilling på 0 U/hr betyder Loop vil ikke automatisk administrere insulin.";
 
 /* No comment provided by engineer. */
 "A simple card" = "Et simpelt kort";
@@ -304,9 +295,6 @@
 /* Title text for high maximum bolus warning */
 "High Maximum Bolus" = "Maksimal bolus";
 
-/* Title text for the high suspend threshold warning */
-"High Suspend Threshold" = "Høj suspenderingsgrænse";
-
 /* Description of how to interact with summary screen */
 "If these settings look good to you, tap Save Settings to continue." = "Hvis indstillingerne er korrekte, skal du trykke på \"Gem indstillinger\" for at fortsætte.";
 
@@ -339,9 +327,6 @@
 
 /* Title text for low maximum bolus warning */
 "Low Maximum Bolus" = "Lav maksimal bolus";
-
-/* Title text for the low suspend threshold warning */
-"Low Suspend Threshold" = "Lav suspenderingsgrænse";
 
 /* Placeholder for maximum value in glucose range */
 "max" = "maks";
@@ -465,9 +450,6 @@
 /* Alert title for confirming carb ratios outside the recommended range */
 "Save Carb Ratios?" = "Gem kulhydratforhold?";
 
-/* Alert title for confirming correction range overrides outside the recommended range */
-"Save Correction Range Overrides?" = "Gem korrektionsområde overrides?";
-
 /* Alert title for confirming correction ranges outside the recommended range */
 "Save Correction Range(s)?" = "Gem korrektionsområde(er)?";
 
@@ -476,9 +458,6 @@
 
 /* Alert title for confirming insulin sensitivities outside the recommended range */
 "Save Insulin Sensitivities?" = "Gem insulinfølsomheder?";
-
-/* Alert title for confirming a suspend threshold outside the recommended range */
-"Save Suspend Threshold?" = "Gem suspenderingsgrænse?";
 
 /* The section header text for a scheduled override */
 "SCHEDULED OVERRIDE" = "PLANLAGT OVERRIDE";

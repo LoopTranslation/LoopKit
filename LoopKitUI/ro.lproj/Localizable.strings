@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "–" = "–";
 
-/* The detail text representing no value */
-"—" = "—";
-
 /* Information about insulin action duration */
 "(appName) assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed." = "(appName) presupune că insulina pe care a livrat-o acționează pentru a vă scădea glicemia timp de 6 ore. Această setare nu poate fi schimbată.";
 
@@ -58,12 +55,6 @@
 
 /* Information about differences between target range and correction range */
 "A correction range is different. This will be a narrower range." = "Un interval de corecție este diferit. Acesta ar trebui sa fie un interval mai îngust.";
-
-/* Caption text for zero maximum bolus setting warning */
-"A setting of 0 U means you will not be able to bolus." = "O setare de 0 U înseamnă că nu veți putea bolusa.";
-
-/* Caption text for low maximum basal rate warning */
-"A setting of 0 U/hr means Loop will not automatically administer insulin." = "O setare de 0 U/oră înseamnă că Loop nu va administra automat insulina.";
 
 /* No comment provided by engineer. */
 "A simple card" = "Un card simplu";
@@ -304,9 +295,6 @@
 /* Title text for high maximum bolus warning */
 "High Maximum Bolus" = "Bolus maxim ridicat";
 
-/* Title text for the high suspend threshold warning */
-"High Suspend Threshold" = "Prag de suspendare ridicat";
-
 /* Description of how to interact with summary screen */
 "If these settings look good to you, tap Save Settings to continue." = "Dacă aceste setări arată bine pentru tine, apasă pe Salvează Setări pentru a continua.";
 
@@ -339,9 +327,6 @@
 
 /* Title text for low maximum bolus warning */
 "Low Maximum Bolus" = "Bolus maxim scăzut";
-
-/* Title text for the low suspend threshold warning */
-"Low Suspend Threshold" = "Limita de suspendare scăzuta";
 
 /* Placeholder for maximum value in glucose range */
 "max" = "max";
@@ -465,9 +450,6 @@
 /* Alert title for confirming carb ratios outside the recommended range */
 "Save Carb Ratios?" = "Salvați rațiile insulina carbohidrați?";
 
-/* Alert title for confirming correction range overrides outside the recommended range */
-"Save Correction Range Overrides?" = "Salvare suprascriere a intervalului de corecție?";
-
 /* Alert title for confirming correction ranges outside the recommended range */
 "Save Correction Range(s)?" = "Salvați intervalul (intervalele) de corecție?";
 
@@ -476,9 +458,6 @@
 
 /* Alert title for confirming insulin sensitivities outside the recommended range */
 "Save Insulin Sensitivities?" = "Salvați sensibilitatea la insulină?";
-
-/* Alert title for confirming a suspend threshold outside the recommended range */
-"Save Suspend Threshold?" = "Salvați limita de suspendare?";
 
 /* The section header text for a scheduled override */
 "SCHEDULED OVERRIDE" = "ÎNLOCUIRE PLANIFICATĂ";

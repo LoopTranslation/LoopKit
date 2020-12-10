@@ -142,14 +142,8 @@
 /* Descriptive text for guardrail high value warning for schedule interface */
 "Some of the values you have entered are outside of what is typically recommended for most people." = "Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.";
 
-/* Title text for suspend threshold */
-"Suspend Threshold" = "Tröskelvärde";
-
 /* Descriptive text for pre-meal correction range override */
 "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "Sänk tillfälligt ditt målvärde före en måltid för att motverka postprandiella hyperglykemier (stegrade blodsocker efter en måltid).";
-
-/* Description of pre-meal mode */
-"Temporarily lower your glucose target before a meal to impact post-meal glucose spikes. This range can be set anywhere from your suspend threshold on the low end to the top of your regular correction range on the high end." = "Sänker tillfälligt dina målvärden före en måltid för att förekomma höga postprandiella blodsockervärden. Blodsockerintervallet som kan ställas in måste vara mellan ditt tröskelvärde, som det lägsta, upp till ditt högsta målvärde.";
 
 /* Descriptive text for workout correction range override */
 "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "Höj tillfälligt ditt målvärde före, under eller efter fysisk aktivitet för att minska risken för låga blodsockervärden.";
@@ -189,9 +183,6 @@
 
 /* The long unit display string for international units of insulin per hour */
 "Units/hour" = "Enhet/timme";
-
-/* Descriptive text for suspend threshold */
-"When your glucose is predicted to go below this value, the app will recommend a basal rate of 0 U/hr and will not recommend a bolus." = "När nuvarande, eller beräknat framtida blodsockervärde är under ditt tröskelvärde, kommer Loop att föreslå en basaldos på 0 E/timme och dessutom aldrig att rekommendera en bolus.";
 
 /* Title for workout mode */
 "Workout" = "Träning";
