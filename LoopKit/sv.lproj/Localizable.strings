@@ -1,11 +1,17 @@
 /* Format for correction range override therapy setting card */
 "%@ Range" = "%@sintervall";
 
+/* Descriptive text for insulin model (1: app name) */
+"%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." = "%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.";
+
 /* Describes a certain bolus failure (1: size of the bolus in units) */
 "%1$@ U bolus failed" = "%1$@ E bolus misslyckades";
 
 /* Describes an uncertain bolus failure (1: size of the bolus in units) */
 "%1$@ U bolus may not have succeeded" = "%1$@ E bolus kan ha misslyckats";
+
+/* Descriptive format string for glucose safety limit (1: app name) */
+"%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." = "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.";
 
 /* Descriptive text for guardrail high value warning for schedule interface */
 "A value you have entered is higher than what is typically recommended for most people." = "Det värde du har angett är högre än vad som normalt rekommenderas för de flesta.";
@@ -16,8 +22,14 @@
 /* The error description describing when Health sharing was denied */
 "Authorization Denied" = "Auktorisation nekad";
 
+/* Title for basal dose type */
+"Basal" = "Basal";
+
 /* Title text for basal rates */
 "Basal Rates" = "Basaldoser";
+
+/* Title for bolus dose type */
+"Bolus" = "Bolus";
 
 /* Title text for carb ratios */
 "Carb Ratios" = "Insulinkvoter";
@@ -43,8 +55,8 @@
 /* Title text for glucose target range */
 "Correction Range" = "Målvärde";
 
-/* Descriptive text for glucose target range */
-"Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "Målvärde är det ideala blodsockerintervall som du vill att Loop ska hålla dig inom.";
+/* Descriptive text for glucose target range (1: app name) */
+"Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." = "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.";
 
 /* Title text for delivery limits */
 "Delivery Limits" = "Maxdoser";
@@ -70,6 +82,9 @@
 /* The short unit display string for grams per U */
 "g/U" = "g/E";
 
+/* Title text for glucose safety limit */
+"Glucose Safety Limit" = "Glucose Safety Limit";
+
 /* Title text for insulin model */
 "Insulin Model" = "Insulinmodell";
 
@@ -88,14 +103,14 @@
 /* Title text for maximum basal rate configuration */
 "Maximum Basal Rate" = "Maximal basaldos";
 
-/* Descriptive text for maximum basal rate */
-"Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." = "Maximal basaldos är den högsta temporära basaldos som Loop kan ställa in automatiskt.";
+/* Descriptive text for maximum basal rate (1: app name) */
+"Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." = "Maximal basaldos är den högsta temporära basaldos som %1$@ kan ställa in automatiskt.";
 
 /* Title text for maximum bolus configuration */
 "Maximum Bolus" = "Maximal bolus";
 
 /* Descriptive text for maximum bolus */
-"Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Maximal bolus är den högsta bolusmängd som kan ges vid ett tillfälle för att täcka kolhydrater eller ett högt blodsocker.";
+"Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Maximal bolus är den högsta bolusmängd som kan ges vid ett tillfälle för att täcka kolhydrater eller ett högt blodsocker.";
 
 /* The short unit display string for milligrams per deciliter per U */
 "mg/dL/U" = "mg/dl/E";
@@ -130,6 +145,9 @@
 /* Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit) */
 "quantity-and-unit-tight" = "%1$@ %2$@";
 
+/* Title for resume dose type */
+"Resumed" = "Återupptagen";
+
 /* Glucose trend up */
 "Rising" = "Stiger";
 
@@ -142,17 +160,17 @@
 /* Descriptive text for guardrail high value warning for schedule interface */
 "Some of the values you have entered are outside of what is typically recommended for most people." = "Ett eller flera av de värden du har angett är utanför vad som generellt rekommenderas.";
 
+/* Title for suspend dose type */
+"Suspended" = "Pausad";
+
+/* Title for temp basal dose type */
+"Temp Basal" = "Temporär basal";
+
 /* Descriptive text for pre-meal correction range override */
 "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "Sänk tillfälligt ditt målvärde före en måltid för att motverka postprandiella hyperglykemier (stegrade blodsocker efter en måltid).";
 
 /* Descriptive text for workout correction range override */
 "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "Höj tillfälligt ditt målvärde före, under eller efter fysisk aktivitet för att minska risken för låga blodsockervärden.";
-
-/* Description of workout mode */
-"Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." = "Ändrar tillfälligt dina målvärden före, under eller efter en fysisk aktivitet för att reducera insulinkänningar. Detta målvärdesintervall kan börja allt ifrån ditt lägsta nuvarande målvärde upp till 180 mg/dl (10 mol/L).";
-
-/* Descriptive text for insulin model */
-"The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." = "Appen förutsätter ett insulin med 6 timmars verkan. Du kan välja mellan olika modeller för hur appen mäter insulinets maximala aktivitet.";
 
 /* Descriptive text for guardrail high value warning */
 "The value you have entered is higher than what is typically recommended for most people." = "Det värde du har angett är högre än vad som normalt rekommenderas för de flesta.";
@@ -188,11 +206,11 @@
 "Workout" = "Träning";
 
 /* Descriptive text for basal rate */
-"Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Din bassaldos är det antal enheter insulin per timme som krävs för din basala ämnesomsättning.";
+"Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Din bassaldos är det antal enheter insulin per timme som krävs för din basala ämnesomsättning.";
 
 /* Descriptive text for carb ratio */
-"Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." = "Din insulinkvot är det antal gram kolhydrater som svarar mot en enhet insulin.";
+"Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." = "Din insulinkvot är det antal gram kolhydrater som svarar mot en enhet insulin.";
 
 /* Descriptive text for insulin sensitivity */
-"Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." = "Insulinkänslighet är ett mått på hur mycket din blodsocker sjunker av en enhet insulin.";
+"Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." = "Insulinkänslighet är ett mått på hur mycket ditt blodsocker sänks av en enhet insulin.";
 

@@ -1,11 +1,17 @@
 /* Format for correction range override therapy setting card */
 "%@ Range" = "%@ -tavoite";
 
+/* Descriptive text for insulin model (1: app name) */
+"%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." = "%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.";
+
 /* Describes a certain bolus failure (1: size of the bolus in units) */
 "%1$@ U bolus failed" = "%1$@ U bolus epäonnistui";
 
 /* Describes an uncertain bolus failure (1: size of the bolus in units) */
 "%1$@ U bolus may not have succeeded" = "%1$@ U bolus ei ehkä onnistunut";
+
+/* Descriptive format string for glucose safety limit (1: app name) */
+"%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." = "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.";
 
 /* Descriptive text for guardrail high value warning for schedule interface */
 "A value you have entered is higher than what is typically recommended for most people." = "Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositeltava arvo.";
@@ -16,8 +22,14 @@
 /* The error description describing when Health sharing was denied */
 "Authorization Denied" = "Valtuutus hylättiin";
 
+/* Title for basal dose type */
+"Basal" = "Basal";
+
 /* Title text for basal rates */
 "Basal Rates" = "Basaalitasot";
+
+/* Title for bolus dose type */
+"Bolus" = "Bolus";
 
 /* Title text for carb ratios */
 "Carb Ratios" = "Hiilihydraattisuhteet";
@@ -43,8 +55,8 @@
 /* Title text for glucose target range */
 "Correction Range" = "Korjausalue";
 
-/* Descriptive text for glucose target range */
-"Correction range is the glucose value (or range of values) that you want Loop to aim for in adjusting your basal insulin." = "Korjausalue tarkoittaa glukoosiarvoa (tai arvoaluetta), johon haluat Loopin tähtäävän säädettäessä basaalin määrää.";
+/* Descriptive text for glucose target range (1: app name) */
+"Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." = "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.";
 
 /* Title text for delivery limits */
 "Delivery Limits" = "Annostelurajat";
@@ -70,6 +82,9 @@
 /* The short unit display string for grams per U */
 "g/U" = "g/U";
 
+/* Title text for glucose safety limit */
+"Glucose Safety Limit" = "Glucose Safety Limit";
+
 /* Title text for insulin model */
 "Insulin Model" = "Insuliinimalli";
 
@@ -88,14 +103,14 @@
 /* Title text for maximum basal rate configuration */
 "Maximum Basal Rate" = "Suurin sallittu basaalitaso";
 
-/* Descriptive text for maximum basal rate */
-"Maximum basal rate is the highest temporary basal rate Loop is allowed to set automatically." = "Suurin sallittu basaalitaso tarkoittaa korkeinta tilapäistä basaalitasoa, jonka Loop saa asettaa automaattisesti.";
+/* Descriptive text for maximum basal rate (1: app name) */
+"Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." = "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.";
 
 /* Title text for maximum bolus configuration */
 "Maximum Bolus" = "Suurin sallittu bolus";
 
 /* Descriptive text for maximum bolus */
-"Maximum bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Suurin sallittu bolus tarkoittaa suurinta insuliiniannosta, jonka voi annostella yhdellä kertaa kattamaan hiilihydraatteja tai alentamaan korkeaa glukoosia.";
+"Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.";
 
 /* The short unit display string for milligrams per deciliter per U */
 "mg/dL/U" = "mg/dL/U";
@@ -130,6 +145,9 @@
 /* Format string for combining localized numeric value and unit without spacing. (1: numeric value)(2: unit) */
 "quantity-and-unit-tight" = "%1$@%2$@";
 
+/* Title for resume dose type */
+"Resumed" = "Resumed";
+
 /* Glucose trend up */
 "Rising" = "Nouseva";
 
@@ -142,17 +160,17 @@
 /* Descriptive text for guardrail high value warning for schedule interface */
 "Some of the values you have entered are outside of what is typically recommended for most people." = "Jotkut antamistasi arvoista on sen ulkopuolella, mitä useimmille ihmisille yleensä suositellaan.";
 
+/* Title for suspend dose type */
+"Suspended" = "Suspended";
+
+/* Title for temp basal dose type */
+"Temp Basal" = "Temp Basal";
+
 /* Descriptive text for pre-meal correction range override */
 "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "Laske glukoositavoitetta väliaikaisesti ennen ateriaa vaikuttaaksesi aterian jälkeiseen glukoosin nousuun.";
 
 /* Descriptive text for workout correction range override */
 "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "Nosta glukoositavoitetta väliaikaisesti ennen liikuntaa, sen aikana tai sen jälkeen, jotta matalan glukoosin riski pienenee.";
-
-/* Description of workout mode */
-"Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events. This range can be set anywhere from the top of your regular correction range on the low end to 180 mg/dL (10 mmol/L) on the high end." = "Nosta glukoositavoitetta tilapäisesti ennen liikuntaa, sen aikana tai sen jälkeen, jotta matalan glukoosin riski pienenee. Tämä alue voidaan asettaa mihin tahansa korjausalueen ylärajan ja 10 mmol/L välille.";
-
-/* Descriptive text for insulin model */
-"The app assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." = "Sovellus olettaa, että insuliini vaikuttaa aktiivisesti 6 tuntia. Voit valita eri malleista, miten sovellus mittaa insuliinin vaikutushuipun.";
 
 /* Descriptive text for guardrail high value warning */
 "The value you have entered is higher than what is typically recommended for most people." = "Antamasi arvo on suurempi kuin useimmille ihmisille yleensä suositellaan.";
@@ -188,11 +206,11 @@
 "Workout" = "Liikunta";
 
 /* Descriptive text for basal rate */
-"Your basal rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Basaalitaso tarkoittaa sitä yksikkömäärää insuliinia tunnissa, jonka tarvitset insuliinin perustarpeen kattamiseen.";
+"Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.";
 
 /* Descriptive text for carb ratio */
-"Your carb ratio is the number of grams of carbohydrate covered by one unit of insulin." = "Hiilihydraattisuhde tarkoittaa sitä, kuinka monta grammaa hiilihydraatteja yksi insuliiniyksikkö kattaa.";
+"Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." = "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin.";
 
 /* Descriptive text for insulin sensitivity */
-"Your insulin sensitivities refer to the drop in glucose expected from one unit of insulin." = "Insuliiniherkkyys tarkoittaa sitä, kuinka paljon glukoosi laskee yhdellä insuliiniyksiköllä.";
+"Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." = "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin.";
 

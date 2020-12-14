@@ -7,6 +7,9 @@
 /* Status highlight that a pump is out of insulin. */
 "No Insulin" = "Inget insulin";
 
+/* Status highlight that pump has a dead battery. */
+"Pump Battery Dead" = "Pump Battery Dead";
+
 /* Status highlight that a pump error occurred. */
 "Pump Error" = "Pumpfel";
 
