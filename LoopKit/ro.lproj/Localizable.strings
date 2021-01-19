@@ -1,9 +1,6 @@
 /* Format for correction range override therapy setting card */
 "%@ Range" = "%@ Interval";
 
-/* Descriptive text for insulin model (1: app name) */
-"%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." = "%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.";
-
 /* Describes a certain bolus failure (1: size of the bolus in units) */
 "%1$@ U bolus failed" = "bolus eșuat de %1$@ U";
 
@@ -11,7 +8,7 @@
 "%1$@ U bolus may not have succeeded" = "bolusul de %1$@ U s-ar putea să fi eșuat";
 
 /* Descriptive format string for glucose safety limit (1: app name) */
-"%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." = "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.";
+"%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." = "%1$@ va livra bazala şi bolusul recomandat numai dacă glucoza este estimată a fi peste această limită pentru următoarele trei ore.";
 
 /* Descriptive text for guardrail high value warning for schedule interface */
 "A value you have entered is higher than what is typically recommended for most people." = "Valoarea pe care ați introdus-o este mai mare decât cea recomandată de obicei pentru majoritatea oamenilor.";
@@ -23,7 +20,7 @@
 "Authorization Denied" = "Autorizare refuzată";
 
 /* Title for basal dose type */
-"Basal" = "Basal";
+"Basal" = "Bazală";
 
 /* Title text for basal rates */
 "Basal Rates" = "Rate bazale";
@@ -56,7 +53,7 @@
 "Correction Range" = "Interval țintă pentru corecție";
 
 /* Descriptive text for glucose target range (1: app name) */
-"Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." = "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.";
+"Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." = "Intervalul de corecție este valoarea glicemiei (sau intervalul de valori) spre care doriți ca %1$@ să țintească în ajustarea insulinei bazale si in calculul bolusurilor.";
 
 /* Title text for delivery limits */
 "Delivery Limits" = "Limite de administrare";
@@ -83,9 +80,9 @@
 "g/U" = "g/U";
 
 /* Title text for glucose safety limit */
-"Glucose Safety Limit" = "Glucose Safety Limit";
+"Glucose Safety Limit" = "Limita de siguranță a glicemiei";
 
-/* Title text for insulin model */
+/* Title text for fast acting insulin model */
 "Insulin Model" = "Model insulină";
 
 /* Title text for insulin sensitivity */
@@ -104,13 +101,13 @@
 "Maximum Basal Rate" = "Rată bazală maximă";
 
 /* Descriptive text for maximum basal rate (1: app name) */
-"Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." = "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.";
+"Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." = "Rata bazala maxima este cea mai mare valoare pe care %1$@ o poate seta automat pentru o rata bazala temporara.";
 
 /* Title text for maximum bolus configuration */
 "Maximum Bolus" = "Bolus maxim";
 
 /* Descriptive text for maximum bolus */
-"Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.";
+"Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Bolusul maxim este cea mai mare cantitate de insulina pe care o poți livra instantaneu pentru a acoperi carbohidrați sau pentru a corecta o glicemie mare.";
 
 /* The short unit display string for milligrams per deciliter per U */
 "mg/dL/U" = "mg/dL/U";
@@ -146,7 +143,7 @@
 "quantity-and-unit-tight" = "%1$@ %2$@";
 
 /* Title for resume dose type */
-"Resumed" = "Resumed";
+"Resumed" = "Reluat";
 
 /* Glucose trend up */
 "Rising" = "În creștere";
@@ -161,10 +158,10 @@
 "Some of the values you have entered are outside of what is typically recommended for most people." = "Câteva dintre valorile introduse sunt în afara a ceea ce este recomandat de obicei pentru majoritatea oamenilor.";
 
 /* Title for suspend dose type */
-"Suspended" = "Suspended";
+"Suspended" = "Suspendat";
 
 /* Title for temp basal dose type */
-"Temp Basal" = "Temp Basal";
+"Temp Basal" = "Bazală temporară";
 
 /* Descriptive text for pre-meal correction range override */
 "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "Reduceți temporar glicemia țintă înainte de masă pentru a avea un impact asupra vârfurilor postprandiale.";
@@ -191,7 +188,7 @@
 "Uncertain Delivery" = "Livrare incertă";
 
 /* The long unit display string for a singular international unit of insulin */
-"Unit" = "Unități";
+"Unit" = "Unitate";
 
 /* The long unit display string for a singular international unit of insulin per hour */
 "Unit/hour" = "Unități/oră";
@@ -203,14 +200,14 @@
 "Units/hour" = "Unități/oră";
 
 /* Title for workout mode */
-"Workout" = "Exercitiu fizic";
+"Workout" = "Activitate sportivă";
 
 /* Descriptive text for basal rate */
-"Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.";
+"Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Rata bazală de insulină este numărul de unități pe oră pe care doriți să le utilizați pentru a acoperi necesarul bazal de insulina al organismului.";
 
 /* Descriptive text for carb ratio */
-"Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." = "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin.";
+"Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." = "Raportul carbohidrați/insulina este numărul de grame de carbohidrați acoperiți de o unitate de insulină.";
 
 /* Descriptive text for insulin sensitivity */
-"Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." = "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin.";
+"Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." = "Factorul de sensibilitate la insulină se referă la scăderea glicemiei determinata de o unitate de insulină.";
 

@@ -1,9 +1,6 @@
 /* Format for correction range override therapy setting card */
 "%@ Range" = "%@ bereik";
 
-/* Descriptive text for insulin model (1: app name) */
-"%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." = "%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.";
-
 /* Describes a certain bolus failure (1: size of the bolus in units) */
 "%1$@ U bolus failed" = "%1$@ E bolus mislukt";
 
@@ -11,7 +8,7 @@
 "%1$@ U bolus may not have succeeded" = "%1$@ E bolus is mogelijk niet geslaagd";
 
 /* Descriptive format string for glucose safety limit (1: app name) */
-"%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." = "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.";
+"%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." = "%1$@ zal alleen een basaal geven en een bolus insuline aanbevelen als je glucose de komende drie uur hoger zal zijn dan deze limiet.";
 
 /* Descriptive text for guardrail high value warning for schedule interface */
 "A value you have entered is higher than what is typically recommended for most people." = "Een waarde die je hebt ingevoerd is hoger dan wat meestal voor de meeste mensen wordt aanbevolen.";
@@ -23,7 +20,7 @@
 "Authorization Denied" = "Autorisatie geweigerd";
 
 /* Title for basal dose type */
-"Basal" = "Basal";
+"Basal" = "Basaal";
 
 /* Title text for basal rates */
 "Basal Rates" = "Basaal snelheden";
@@ -56,7 +53,7 @@
 "Correction Range" = "Correctie bereik";
 
 /* Descriptive text for glucose target range (1: app name) */
-"Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." = "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.";
+"Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." = "Correctie bereik is de glucosewaarde (of bereik van waarden) waar %1$@ naar moet streven door je basaalstand aan te passen en je te helpen bij het berekenen van je bolussen.";
 
 /* Title text for delivery limits */
 "Delivery Limits" = "Toediening limieten";
@@ -83,9 +80,9 @@
 "g/U" = "g/E";
 
 /* Title text for glucose safety limit */
-"Glucose Safety Limit" = "Glucose Safety Limit";
+"Glucose Safety Limit" = "Glucose veiligheidslimiet";
 
-/* Title text for insulin model */
+/* Title text for fast acting insulin model */
 "Insulin Model" = "Insuline model";
 
 /* Title text for insulin sensitivity */
@@ -104,13 +101,13 @@
 "Maximum Basal Rate" = "Maximum basaal instelling";
 
 /* Descriptive text for maximum basal rate (1: app name) */
-"Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." = "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.";
+"Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." = "Maximale basaalstand is de hoogste tijdelijke basaal snelheid die Loop automatisch mag instellen.";
 
 /* Title text for maximum bolus configuration */
 "Maximum Bolus" = "Maximum bolus";
 
 /* Descriptive text for maximum bolus */
-"Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.";
+"Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Maximale bolus is de hoogste bolus die je kan geven om koolhydraten te dekken of hoge bloed glucose te verlagen.";
 
 /* The short unit display string for milligrams per deciliter per U */
 "mg/dL/U" = "mg/dL/E";
@@ -146,7 +143,7 @@
 "quantity-and-unit-tight" = "%1$@%2$@";
 
 /* Title for resume dose type */
-"Resumed" = "Resumed";
+"Resumed" = "Hervatten";
 
 /* Glucose trend up */
 "Rising" = "Stijgend";
@@ -161,10 +158,10 @@
 "Some of the values you have entered are outside of what is typically recommended for most people." = "Sommige van de waarden die u hebt ingevoerd vallen buiten wat algemeen wordt aanbevolen.";
 
 /* Title for suspend dose type */
-"Suspended" = "Suspended";
+"Suspended" = "Onderbroken";
 
 /* Title for temp basal dose type */
-"Temp Basal" = "Temp Basal";
+"Temp Basal" = "Tijdelijk basaal";
 
 /* Descriptive text for pre-meal correction range override */
 "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "Tijdelijk verlagen van uw glucosedoel voor een maaltijd (pre-meal) om invloed te hebben op post-maaltijd glucose pieken.";
@@ -206,11 +203,11 @@
 "Workout" = "Training";
 
 /* Descriptive text for basal rate */
-"Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.";
+"Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Uw basale snelheid van insuline is het aantal eenheden per uur dat u wilt gebruiken om uw standaard insuline behoeften te dekken.";
 
 /* Descriptive text for carb ratio */
-"Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." = "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin.";
+"Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." = "Jouw koolhydraten verhouding is het aantal gram gram koolhydraten dat gedekt wordt door één eenheid insuline.";
 
 /* Descriptive text for insulin sensitivity */
-"Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." = "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin.";
+"Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." = "Uw insuline gevoeligheden verwijzen naar de verwachte daling in glucose van één eenheid insuline.";
 

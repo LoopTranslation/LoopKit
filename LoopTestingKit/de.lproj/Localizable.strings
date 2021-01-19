@@ -1,18 +1,18 @@
 /* Status highlight that delivery is uncertain. */
-"Comms Issue" = "Comms Issue";
+"Comms Issue" = "Comms Problem";
 
 /* Status highlight that insulin delivery was suspended. */
-"Insulin Suspended" = "Insulin Suspended";
+"Insulin Suspended" = "Insulin ausgesetzt";
 
 /* Status highlight that a pump is out of insulin. */
-"No Insulin" = "No Insulin";
+"No Insulin" = "Kein Insulin";
 
 /* Status highlight that pump has a dead battery. */
-"Pump Battery Dead" = "Pump Battery Dead";
+"Pump Battery Dead" = "Pumpenbatterie tot";
 
 /* Status highlight that a pump error occurred. */
-"Pump Error" = "Pump Error";
+"Pump Error" = "Pumpenfehler";
 
 /* Status highlight that an occlusion was detected. */
-"Pump Occlusion" = "Pump Occlusion";
+"Pump Occlusion" = "Pumpenverschluss";
 

@@ -1,9 +1,6 @@
 /* Format for correction range override therapy setting card */
 "%@ Range" = "%@sintervall";
 
-/* Descriptive text for insulin model (1: app name) */
-"%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." = "%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.";
-
 /* Describes a certain bolus failure (1: size of the bolus in units) */
 "%1$@ U bolus failed" = "%1$@ E bolus misslyckades";
 
@@ -11,7 +8,7 @@
 "%1$@ U bolus may not have succeeded" = "%1$@ E bolus kan ha misslyckats";
 
 /* Descriptive format string for glucose safety limit (1: app name) */
-"%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." = "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.";
+"%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." = "%1$@ kommer att tillföra basal och rekommendera insulin endast om ditt blodsocker förväntas ligga över denna gräns under de kommande tre timmarna.";
 
 /* Descriptive text for guardrail high value warning for schedule interface */
 "A value you have entered is higher than what is typically recommended for most people." = "Det värde du har angett är högre än vad som normalt rekommenderas för de flesta.";
@@ -56,7 +53,7 @@
 "Correction Range" = "Målvärde";
 
 /* Descriptive text for glucose target range (1: app name) */
-"Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." = "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.";
+"Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." = "Målvärde är det ideala blodsockerintervall som du vill att %1$@ ska hålla dig inom.";
 
 /* Title text for delivery limits */
 "Delivery Limits" = "Maxdoser";
@@ -83,9 +80,9 @@
 "g/U" = "g/E";
 
 /* Title text for glucose safety limit */
-"Glucose Safety Limit" = "Glucose Safety Limit";
+"Glucose Safety Limit" = "Tröskelvärde för blodsocker";
 
-/* Title text for insulin model */
+/* Title text for fast acting insulin model */
 "Insulin Model" = "Insulinmodell";
 
 /* Title text for insulin sensitivity */

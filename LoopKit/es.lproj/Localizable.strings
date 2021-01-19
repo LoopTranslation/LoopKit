@@ -1,9 +1,6 @@
 /* Format for correction range override therapy setting card */
 "%@ Range" = "%@ Range";
 
-/* Descriptive text for insulin model (1: app name) */
-"%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." = "%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.";
-
 /* Describes a certain bolus failure (1: size of the bolus in units) */
 "%1$@ U bolus failed" = "%1$@ U bolo falló";
 
@@ -85,7 +82,7 @@
 /* Title text for glucose safety limit */
 "Glucose Safety Limit" = "Glucose Safety Limit";
 
-/* Title text for insulin model */
+/* Title text for fast acting insulin model */
 "Insulin Model" = "Insulin Model";
 
 /* Title text for insulin sensitivity */

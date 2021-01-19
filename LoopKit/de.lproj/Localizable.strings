@@ -1,8 +1,5 @@
 /* Format for correction range override therapy setting card */
-"%@ Range" = "%@ Range";
-
-/* Descriptive text for insulin model (1: app name) */
-"%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity." = "%1$@ assumes insulin is actively working for 6 hours. You can choose from different models for how the app measures the insulin’s peak activity.";
+"%@ Range" = "%@ Bereich";
 
 /* Describes a certain bolus failure (1: size of the bolus in units) */
 "%1$@ U bolus failed" = "%1$@ IE bolus fehlgeschlagen";
@@ -11,13 +8,13 @@
 "%1$@ U bolus may not have succeeded" = "%1$@ IE bolus wurde wohl nicht abgegeben";
 
 /* Descriptive format string for glucose safety limit (1: app name) */
-"%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." = "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours.";
+"%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours." = "%1$@ wird Basal und empfohlenes Bolus-Insulin nur liefern, wenn Ihr vorhergesagter Blutzucker für die nächsten drei Stunden über diesem Grenzwert zu sein scheint.";
 
 /* Descriptive text for guardrail high value warning for schedule interface */
-"A value you have entered is higher than what is typically recommended for most people." = "A value you have entered is higher than what is typically recommended for most people.";
+"A value you have entered is higher than what is typically recommended for most people." = "Ein eingegebener Wert ist höher als der Wert, der normalerweise für die meisten Personen empfohlen wird.";
 
 /* Descriptive text for guardrail low value warning for schedule interface */
-"A value you have entered is lower than what is typically recommended for most people." = "A value you have entered is lower than what is typically recommended for most people.";
+"A value you have entered is lower than what is typically recommended for most people." = "Ein eingegebener Wert ist niedriger als der Wert, der normalerweise für die meisten Personen empfohlen wird.";
 
 /* The error description describing when Health sharing was denied */
 "Authorization Denied" = "Autorisierung verweigert";
@@ -26,13 +23,13 @@
 "Basal" = "Basal";
 
 /* Title text for basal rates */
-"Basal Rates" = "Basal Rates";
+"Basal Rates" = "Basalrate";
 
 /* Title for bolus dose type */
 "Bolus" = "Bolus";
 
 /* Title text for carb ratios */
-"Carb Ratios" = "Carb Ratios";
+"Carb Ratios" = "KH-Verhältnis";
 
 /* Recovery instruction for an uncertain bolus failure */
 "Check your pump before retrying" = "Prüfe deine Pumpe, bevor du es erneut versuchsts";
@@ -47,19 +44,19 @@
 "Communication Failure" = "Kommunikationsfehler";
 
 /* Failure reason for uncertain delivery */
-"Communications interrupted during insulin delivery command." = "Communications interrupted during insulin delivery command.";
+"Communications interrupted during insulin delivery command." = "Kommunikation unterbrochen während Insulin-Lieferung.";
 
 /* Generic pump error description */
 "Connection Failure" = "Verbindungsfehler";
 
 /* Title text for glucose target range */
-"Correction Range" = "Correction Range";
+"Correction Range" = "Korrekturbereich";
 
 /* Descriptive text for glucose target range (1: app name) */
-"Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." = "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses.";
+"Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses." = "Korrekturbereich ist der Blutzuckerwert (oder Wertebereich), den Sie %1$@ bei der Einstellung Ihres Basalinsulins und bei der Berechnung Ihrer Boluse anvisieren möchten.";
 
 /* Title text for delivery limits */
-"Delivery Limits" = "Delivery Limits";
+"Delivery Limits" = "Verabreichungslimiten";
 
 /* Generic pump error description */
 "Device Refused" = "Device verweigert";
@@ -83,13 +80,13 @@
 "g/U" = "g/IE";
 
 /* Title text for glucose safety limit */
-"Glucose Safety Limit" = "Glucose Safety Limit";
+"Glucose Safety Limit" = "Blutzucker-Sicherheitsgrenze";
 
-/* Title text for insulin model */
-"Insulin Model" = "Insulin Model";
+/* Title text for fast acting insulin model */
+"Insulin Model" = "Insulin-Modell";
 
 /* Title text for insulin sensitivity */
-"Insulin Sensitivities" = "Insulin Sensitivities";
+"Insulin Sensitivities" = "Insulinempfindlichkeiten";
 
 /* Generic pump error description */
 "Invalid Configuration" = "Fehlerhafte Konfiguration";
@@ -98,19 +95,19 @@
 "It is safe to retry" = "Es ist sicher um es noch mal zu versuchen";
 
 /* Recovery suggestion for uncertain delivery */
-"Make sure your pump is within communication range of your phone." = "Make sure your pump is within communication range of your phone.";
+"Make sure your pump is within communication range of your phone." = "Stellen Sie sicher, dass sich Ihre Pumpe in der Kommunikationsreichweite Ihres Telefons befindet.";
 
 /* Title text for maximum basal rate configuration */
-"Maximum Basal Rate" = "Maximum Basal Rate";
+"Maximum Basal Rate" = "Maximale Basalrate";
 
 /* Descriptive text for maximum basal rate (1: app name) */
-"Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." = "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically.";
+"Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set automatically." = "Die maximale Basalrate ist die höchste temporäre Basalrate, die %1$@ automatisch eingestellt werden darf.";
 
 /* Title text for maximum bolus configuration */
-"Maximum Bolus" = "Maximum Bolus";
+"Maximum Bolus" = "Maximaler Bolus";
 
 /* Descriptive text for maximum bolus */
-"Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose.";
+"Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose." = "Maximaler Bolus ist die höchste Bolusmenge, die Sie auf einmal liefern können, um Kohlenhydrate zu decken oder hoher Blutzucker zu senken.";
 
 /* The short unit display string for milligrams per deciliter per U */
 "mg/dL/U" = "mg/dL/IE";
@@ -131,7 +128,7 @@
 "OK" = "OK";
 
 /* Descriptive text for saving settings outside the recommended range */
-"One or more of the values you have entered is outside of what is typically recommended for most people." = "One or more of the values you have entered is outside of what is typically recommended for most people.";
+"One or more of the values you have entered is outside of what is typically recommended for most people." = "Mindestens einer der eingegebenen Werte liegt außerhalb dessen, was für die meisten Personen normalerweise empfohlen wird.";
 
 /* The error recovery suggestion when Health sharing was denied */
 "Please re-enable sharing in Health" = "Bitte aktiviere das sharing in Healt erneut";
@@ -146,7 +143,7 @@
 "quantity-and-unit-tight" = "%1$@%2$@";
 
 /* Title for resume dose type */
-"Resumed" = "Resumed";
+"Resumed" = "Fortgesetzt";
 
 /* Glucose trend up */
 "Rising" = "Steigt";
@@ -158,28 +155,28 @@
 "Rising very fast" = "Steigt sehr schnell";
 
 /* Descriptive text for guardrail high value warning for schedule interface */
-"Some of the values you have entered are outside of what is typically recommended for most people." = "Some of the values you have entered are outside of what is typically recommended for most people.";
+"Some of the values you have entered are outside of what is typically recommended for most people." = "Einige der eingegebenen Werte liegen außerhalb dessen, was für die meisten Personen normalerweise empfohlen wird.";
 
 /* Title for suspend dose type */
-"Suspended" = "Suspended";
+"Suspended" = "Unterbrochen";
 
 /* Title for temp basal dose type */
 "Temp Basal" = "Temp Basal";
 
 /* Descriptive text for pre-meal correction range override */
-"Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes.";
+"Temporarily lower your glucose target before a meal to impact post-meal glucose spikes." = "Vorübergehend senken Sie Ihr Blutzuckerziel vor einer Mahlzeit, um Spitzen nach dem Essen zu beeinflussen.";
 
 /* Descriptive text for workout correction range override */
-"Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events.";
+"Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events." = "Erhöhen Sie Ihr Blutzuckerziel vorübergehend, während oder nach körperlicher Aktivität, um das Risiko von tiefen Werten zu reduzieren.";
 
 /* Descriptive text for guardrail high value warning */
-"The value you have entered is higher than what is typically recommended for most people." = "The value you have entered is higher than what is typically recommended for most people.";
+"The value you have entered is higher than what is typically recommended for most people." = "Der eingegebene Wert ist höher als der Wert, der normalerweise für die meisten Personen empfohlen wird.";
 
 /* Descriptive text for guardrail low value warning */
-"The value you have entered is lower than what is typically recommended for most people." = "The value you have entered is lower than what is typically recommended for most people.";
+"The value you have entered is lower than what is typically recommended for most people." = "Der eingegebene Wert ist niedriger als der Wert, der normalerweise für die meisten Personen empfohlen wird.";
 
 /* Descriptive text for guardrail high value warning */
-"The values you have entered are outside of what is typically recommended for most people." = "The values you have entered are outside of what is typically recommended for most people.";
+"The values you have entered are outside of what is typically recommended for most people." = "Die eingegebenen Werte liegen außerhalb dessen, was für die meisten Personen normalerweise empfohlen wird.";
 
 /* The short unit display string for international units of insulin */
 "U" = "IE";
@@ -188,7 +185,7 @@
 "U/hr" = "IE/Std.";
 
 /* Error description for uncertain delivery */
-"Uncertain Delivery" = "Uncertain Delivery";
+"Uncertain Delivery" = "Unsichere Abgabe";
 
 /* The long unit display string for a singular international unit of insulin */
 "Unit" = "Einheit";
@@ -203,14 +200,14 @@
 "Units/hour" = "Einheiten/Stunde";
 
 /* Title for workout mode */
-"Workout" = "Workout";
+"Workout" = "Training";
 
 /* Descriptive text for basal rate */
-"Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs.";
+"Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs." = "Ihre Basalrate ist die Anzahl der Einheiten pro Stunde, die Sie verwenden möchten, um Ihren ständigen Insulinbedarf zu decken.";
 
 /* Descriptive text for carb ratio */
-"Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." = "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin.";
+"Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin." = "Ihr KH-Verhältnis ist die Anzahl der Gramm Kohlenhydrate, die von einer Einheit Insulin abgedeckt werden.";
 
 /* Descriptive text for insulin sensitivity */
-"Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." = "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin.";
+"Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin." = "Ihre Insulinempfindlichkeiten beziehen sich auf den Rückgang des Blutzuckers, der von einer Einheit Insulin erwartet wird.";
 

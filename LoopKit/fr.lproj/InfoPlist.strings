@@ -5,5 +5,5 @@
 "NSHealthShareUsageDescription" = "Meal data from the Health database is used to determine glucose effects. Glucose data is retrieved from HealthKit for graphing and analysis.";
 
 /* Privacy - Health Update Usage Description */
-"NSHealthUpdateUsageDescription" = "Carbohydrate meal data entered in the app is stored in the Health database. Glucose data is stored securely in HealthKit.";
+"NSHealthUpdateUsageDescription" = "Les données sur les apports de de glucides saisies dans l'application sont stockées dans la base de données Santé d'Apple. Les données de glycémie extraites du CGM sont stockées de manière sécurisée dans HealthKit.";
 
