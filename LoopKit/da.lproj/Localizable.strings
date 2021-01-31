@@ -16,6 +16,15 @@
 /* Descriptive text for guardrail low value warning for schedule interface */
 "A value you have entered is lower than what is typically recommended for most people." = "En værdi, du har angivet, er lavere end den, der typisk anbefales til de fleste.";
 
+/* Brand name for apidra insulin type */
+"Apidra" = "Apidra";
+
+/* Title for Apidra insulin type */
+"Apidra (insulin glulisine)" = "Apidra (insulin glulisin)";
+
+/* Description for apidra insulin type */
+"Apidra (insulin glulisine) is a fast-acting insulin made by Sanofi-aventis " = "Apidra (insulinglullisin) er et hurtigtvirkende insulin fremstillet af Sanofi-aventis ";
+
 /* The error description describing when Health sharing was denied */
 "Authorization Denied" = "Tilladelse nægtet";
 
@@ -73,14 +82,33 @@
 /* Glucose trend down-down-down */
 "Falling very fast" = "Falder meget hurtigt";
 
+/* Brand name for fiasp insulin type
+   Title for Fiasp insulin type */
+"Fiasp" = "Fiasp";
+
+/* Description for fiasp insulin type */
+"Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk" = "Fiasp er et måltidsinsulin aspart med tilsætning af nicotinamid (vitamin B3) fremstillet af Novo Nordisk";
+
 /* Glucose trend flat */
 "Flat" = "Flad";
+
+/* Descriptive text for fast acting insulin model (1: app name) */
+"For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity." = "For hurtigt virkende insulin, %1$@ antager det arbejder aktivt i 6 timer. Du kan vælge mellem forskellige modeller til spidsbelastningsaktiviteten.";
 
 /* The short unit display string for grams per U */
 "g/U" = "g/E";
 
 /* Title text for glucose safety limit */
 "Glucose Safety Limit" = "Sikkerhedsgrænse for blodsukker";
+
+/* Brand name for humalog insulin type */
+"Humalog" = "Humalog";
+
+/* Title for Humalog insulin type */
+"Humalog (insulin lispro)" = "Humalog (insulin lispro)";
+
+/* Description for humalog insulin type */
+"Humalog (insulin lispro) is a fast-acting insulin made by Eli Lilly" = "Humalog (insulin lispro) er et hurtigtvirkende insulin fremstillet af Eli Lilly";
 
 /* Title text for fast acting insulin model */
 "Insulin Model" = "Insulinmodel";
@@ -123,6 +151,15 @@
 
 /* Describes an error for no data found in a CarbStore request */
 "No values found" = "Ingen værdier fundet";
+
+/* Brand name for novolog insulin type */
+"Novolog" = "Novolog";
+
+/* Title for Novolog insulin type */
+"Novolog (insulin aspart)" = "Novolog (insulin aspart)";
+
+/* Description for novolog insulin type */
+"NovoLog (insulin aspart) is a fast-acting insulin made by Novo Nordisk" = "NovoLog (insulin aspart) er et hurtigt virkende insulin fremstillet af Novo Nordisk";
 
 /* Sensor state description for the valid state */
 "OK" = "OK";

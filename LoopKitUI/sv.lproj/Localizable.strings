@@ -298,6 +298,9 @@
 /* Title of insulin model preset - fiasp */
 "Fiasp" = "Fiasp";
 
+/* Insulin model setting description (1: app name) (2: number of models) */
+"For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity." = "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity.";
+
 /* Information about correction range format (1: app name) */
 "For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin." = "För detta intervall ska du välja det blodsockervärde (eller det målvärdesintervall) som du vill att %1$@ ska sträva efter genom justering av basalinsulin.";
 
@@ -699,6 +702,12 @@
 
 /* Description of how to add a range */
 "You can add entries for different times of day by using the ➕." = "Du kan lägga till inmatningar för olika tider på dagen med hjälp av ➕.";
+
+/* Information about insulin model */
+"You can choose how (appName) measures rapid acting insulin's peak activity according to one of these two insulin models." = "You can choose how (appName) measures rapid acting insulin's peak activity according to one of these two insulin models.";
+
+/* Information about insulin model */
+"You can choose how %@ measures rapid acting insulin's peak activity according to one of these two insulin models." = "You can choose how %@ measures rapid acting insulin's peak activity according to one of these two insulin models.";
 
 /* Description of how to edit setting */
 "You can edit a setting by tapping into any line item." = "Du kan ändra en inställning genom att trycka på ett objekt på en av raderna.";

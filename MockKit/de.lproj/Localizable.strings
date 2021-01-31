@@ -28,6 +28,9 @@
 /* The alert title for a suspend error */
 "Error Suspending" = "Fehler beim Unterbrechen";
 
+/* Controller title for insulin type selection screen */
+"Insulin Type" = "Insulintyp";
+
 /* Button title to acknowledge error */
 "OK" = "OK";
 

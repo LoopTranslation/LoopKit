@@ -25,9 +25,6 @@
 /* Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[1] = "Event History"; ObjectID = "TyZ-xm-mVN"; */
 "TyZ-xm-mVN.segmentTitles[1]" = "Hændelseshistorik";
 
-/* Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[2] = "Outside Insulin"; ObjectID = "TyZ-xm-mVN"; */
-"TyZ-xm-mVN.segmentTitles[2]" = "Uden for Insulin";
-
 /* Class = "UINavigationItem"; title = "Insulin Delivery"; ObjectID = "vls-EW-uwI"; */
-"vls-EW-uwI.title" = "Afgivet insulin";
+"vls-EW-uwI.title" = "Insulin Indgivelse";
 

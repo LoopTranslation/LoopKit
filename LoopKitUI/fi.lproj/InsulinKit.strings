@@ -25,6 +25,9 @@
 /* Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[1] = "Event History"; ObjectID = "TyZ-xm-mVN"; */
 "TyZ-xm-mVN.segmentTitles[1]" = "Tapahtumahistoria";
 
+/* Class = "UISegmentedControl"; TyZ-xm-mVN.segmentTitles[2] = "Outside Insulin"; ObjectID = "TyZ-xm-mVN"; */
+"TyZ-xm-mVN.segmentTitles[2]" = "Outside Insulin";
+
 /* Class = "UINavigationItem"; title = "Insulin Delivery"; ObjectID = "vls-EW-uwI"; */
 "vls-EW-uwI.title" = "Insuliinin annostelu";
 
